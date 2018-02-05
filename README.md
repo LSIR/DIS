@@ -1,5 +1,3 @@
-# Course Material for Distributed Information Systems 2018
-
 ## Lecturer
 
 [Prof. Karl Aberer](http://lsir.epfl.ch/aberer/), head of the [Distributed Information Systems Laboratory, LSIR](http://lsir.epfl.ch)
@@ -13,7 +11,7 @@
 - [Panayiotis Smeros](https://people.epfl.ch/panayiotis.smeros)
 
 
-### In this repository you will find:
+#### In this repository you will find:
 - Lecture slides with embedded notes
 - Lab exercises and solutions
 - Sample quizes and exams from previous years
