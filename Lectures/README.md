@@ -2,7 +2,7 @@
 
 | Week | Area                        | Topic                                            | Slides | 
 |:-----|:---------------------------:|:-------------------------------------------------|:-------|
-| 1    | Introduction                | Distributed Information Systems - An Overview    |        |
+| 1    | Introduction                | Distributed Information Systems - An Overview    | \[[1](week%201%20-%20Course%20Information%202018.pdf), [2](week%201%20-%20Overview%20DIS.pdf)\]       |
 | 2    | Information Retrieval       | Text Retrieval Models                            |        |
 | 3    |                             | IR Processing: Query Expansion and Indexing      |        |
 | 4    |                             | Advanced Retrieval Methods                       |        |
