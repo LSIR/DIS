@@ -8,12 +8,12 @@
 | 4    |                             | Advanced Retrieval Methods                       |             |
 | 5    |                             | Link-based Ranking, Web search                   |             |
 | 6    | Data Mining                 | Frequent Itemsets, Clustering and Classification |             |
-| 7    |                             | Holiday                                          |             |
+| 7    |                             | **Holiday**                                      |             |
 | 8    |                             | Classification Pipeline                          |             |
 | 9    |                             | Social Network Analysis                          |             |
 | 10   |                             | Recommender Systems                              |             |
 | 11   | From Documents to Knowledge | Document Classification                          |             |
-| 12   |                             | Holiday                                          |             |
+| 12   |                             | **Holiday**                                      |             |
 | 13   |                             | Semantic Web                                     |             |
 | 14   |                             | Entity and Information Extraction                |             |
 | 15   |                             | Taxonomy Induction and Integration               |             |
