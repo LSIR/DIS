@@ -3,7 +3,7 @@
 | Week | Area                        | Topic                                            | Notebook    | 
 |:-----|:---------------------------:|:-------------------------------------------------|:------------|
 | 1    | Introduction                | [Prerequisites Installation](Prerequisites.md)	  | **-** 			|
-| 2    | Information Retrieval       | Text Retrieval Models                            |             |
+| 2    | Information Retrieval       | [Text Retrieval Models](01.Vector_Space_Retrieval/Vector_Space_Retrieval.ipynb)                            |             |
 | 3    |                             | IR Processing: Query Expansion and Indexing      |             |
 | 4    |                             | Advanced Retrieval Methods                       |             |
 | 5    |                             | Link-based Ranking, Web search                   |             |
