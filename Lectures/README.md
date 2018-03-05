@@ -4,7 +4,7 @@
 |:-----|:---------------------------:|:-------------------------------------------------|
 | 1    | Introduction                | [Course Information][1] - [Overview][2]          |
 | 2    | Information Retrieval       | [Text Retrieval Models][3]                       |
-| 3    |                             | IR Processing: Query Expansion and Indexing      |
+| 3    |                             | [IR Processing: Query Expansion and Indexing][4] |
 | 4    |                             | Advanced Retrieval Methods                       |
 | 5    |                             | Link-based Ranking, Web search                   |
 | 6    | Data Mining                 | Frequent Itemsets, Clustering and Classification |
@@ -21,3 +21,4 @@
 [1]:week%201%20-%20Course%20Information%202018.pdf
 [2]:week%201%20-%20Overview%20DIS.pdf
 [3]:week%202%20-%20Information%20Retrieval%20Basics.pdf
+[4]:week%203%20-%20IR%20Implementation.pdf
