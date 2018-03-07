@@ -18,6 +18,8 @@
 | 14   |                             | Entity and Information Extraction                |
 | 15   |                             | Taxonomy Induction and Integration               |
 
+[Poll Answers](poll%20answers)
+
 [1]:week%201%20-%20Course%20Information%202018.pdf
 [2]:week%201%20-%20Overview%20DIS.pdf
 [3]:week%202%20-%20Information%20Retrieval%20Basics.pdf
