@@ -4,7 +4,7 @@
 |:-----|:---------------------------:|:-------------------------------------------------|
 | 1    | Introduction                | [Prerequisites Installation][1]	                |
 | 2    | Information Retrieval       | [Text Retrieval Models][2]                       |
-| 3    |                             | IR Processing: Query Expansion and Indexing      |
+| 3    |                             | [IR Processing: Query Expansion and Indexing][3]      |
 | 4    |                             | Advanced Retrieval Methods                       |
 | 5    |                             | Link-based Ranking, Web search                   |
 | 6    | Data Mining                 | Frequent Itemsets, Clustering and Classification |
@@ -20,3 +20,4 @@
 
 [1]:Prerequisites.md
 [2]:01.Vector_Space_Retrieval/Vector_Space_Retrieval.ipynb
+[3]:02.Query_Expansion_INdexing/query_expansion_indexing.ipynb
