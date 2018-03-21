@@ -19,6 +19,6 @@
 | 15   |                             | Taxonomy Induction and Integration               |
 
 [1]:Prerequisites.md
-[2]:01.Vector_Space_Retrieval/Vector_Space_Retrieval.ipynb
-[3]:02.Query_Expansion_Indexing/query_expansion_indexing.ipynb
-[4]:03.Advanced_Information_Retrieval/Advanced_Information_Retrieval.ipynb
+[2]:01.Vector_Space_Retrieval
+[3]:02.Query_Expansion_Indexing
+[4]:03.Advanced_Information_Retrieval
