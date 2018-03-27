@@ -6,8 +6,8 @@
 | 2    | Information Retrieval       | [Text Retrieval Models][2]                       |
 | 3    |                             | [IR Processing: Query Expansion and Indexing][3] |
 | 4    |                             | [Advanced Retrieval Methods][4]                  |
-| 5    |                             | Link-based Ranking, Web search                   |
-| 6    | Data Mining                 | Frequent Itemsets, Clustering and Classification |
+| 5    |                             | [Link-based Ranking, Web search][5]              |
+| 6    | Data Mining                 | Frequent Itemsets                                |
 | 7    |                             | **Holiday**                                      |
 | 8    |                             | Classification Pipeline                          |
 | 9    |                             | Social Network Analysis                          |
@@ -22,3 +22,4 @@
 [2]:01.Vector_Space_Retrieval
 [3]:02.Query_Expansion_Indexing
 [4]:03.Advanced_Information_Retrieval
+[5]:04.Link_Based_Ranking
