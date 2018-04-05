@@ -8,15 +8,15 @@
 | 4    |                             | [Advanced Retrieval Methods][5]                  |
 | 5    |                             | [Link-based Ranking, Web search][6]              |
 | 6    | Data Mining                 | [Frequent Itemsets][7]                           |
-| 7    |                             | **Holiday**                                      |
-| 8    |                             | Classification Pipeline                          |
-| 9    |                             | Social Network Analysis                          |
-| 10   |                             | Recommender Systems                              |
-| 11   | From Documents to Knowledge | Document Classification                          |
-| 12   |                             | **Holiday**                                      |
-| 13   |                             | Semantic Web                                     |
-| 14   |                             | Entity and Information Extraction                |
-| 15   |                             | Taxonomy Induction and Integration               |
+|      |                             | **Holiday**                                      |
+| 7    |                             | [Classification Pipeline][8]                     |
+| 8    |                             | Social Network Analysis                          |
+| 9    |                             | Recommender Systems                              |
+| 10   | From Documents to Knowledge | Document Classification                          |
+|      |                             | **Holiday**                                      |
+| 11   |                             | Semantic Web                                     |
+| 12   |                             | Entity and Information Extraction                |
+| 13   |                             | Taxonomy Induction and Integration               |
 
 [Poll Answers](poll%20answers)
 
@@ -27,3 +27,4 @@
 [5]:week%204%20-%20Advanced%20Retrieval%20Models.pdf
 [6]:week%205%20-%20Link%20Analysis.pdf
 [7]:week%206%20-%20Frequent%20Itemsets.pdf
+[8]:week%207%20-%20Clustering.pdf
