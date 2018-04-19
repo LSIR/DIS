@@ -9,8 +9,8 @@
 | 5    |                             | [Link-based Ranking, Web search][6]              |
 | 6    | Data Mining                 | [Frequent Itemsets][7]                           |
 |      |                             | **Holiday**                                      |
-| 7    |                             | [Classification Pipeline][8]                     |
-| 8    |                             | [Social Network Analysis][9]                     |
+| 7    |                             | [Clustering][8]                                  |
+| 8    |                             | [Classification][9]                              |
 | 9    |                             | Recommender Systems                              |
 | 10   | From Documents to Knowledge | Document Classification                          |
 |      |                             | **Holiday**                                      |
