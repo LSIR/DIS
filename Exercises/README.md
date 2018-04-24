@@ -10,7 +10,7 @@
 | 6    | Data Mining                 | [Frequent Itemsets][6]                           |
 | 7    |                             | **Holiday**                                      |
 | 8    |                             | [Clustering][7]                                  |
-| 9    |                             | Classification                                   |
+| 9    |                             | [Classification][8]                              |
 | 10   |                             | Recommender Systems                              |
 | 11   | From Documents to Knowledge | Document Classification                          |
 | 12   |                             | **Holiday**                                      |
@@ -25,3 +25,4 @@
 [5]:04.Link_Based_Ranking
 [6]:05.Frequent_Itemsets
 [7]:06.Clustering
+[8]:07.Social_Network_Analysis
