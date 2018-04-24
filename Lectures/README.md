@@ -29,3 +29,4 @@
 [7]:week%206%20-%20Frequent%20Itemsets.pdf
 [8]:week%207%20-%20Clustering.pdf
 [9]:week%208%20-%20Classification.pdf
+[10]:week%209%20-%20Classification%20Pipeline.pdf
