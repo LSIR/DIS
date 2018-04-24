@@ -11,7 +11,7 @@
 |      |                             | **Holiday**                                      |
 | 6    |                             | [Clustering][6]                                  |
 | 7    |                             | [Social Network Analysis][7]                     |
-| 8    |                             | Recommender Systems                              |
+| 8    |                             | [Classification Pipeline][8]                     |
 | 9    | From Documents to Knowledge | Document Classification                          |
 |      |                             | **Holiday**                                      |
 | 10   |                             | Semantic Web                                     |
@@ -26,3 +26,4 @@
 [5]:05.Frequent_Itemsets
 [6]:06.Clustering
 [7]:07.Social_Network_Analysis
+[8]:08.Classification_Pipeline
