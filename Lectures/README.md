@@ -11,7 +11,7 @@
 |      |                             | **Holiday**                                      |
 | 7    |                             | [Clustering][8]                                  |
 | 8    |                             | [Classification][9]                              |
-| 9    |                             | Recommender Systems                              |
+| 9    |                             | [Classification Pipeline][10]                    |
 | 10   | From Documents to Knowledge | Document Classification                          |
 |      |                             | **Holiday**                                      |
 | 11   |                             | Semantic Web                                     |
