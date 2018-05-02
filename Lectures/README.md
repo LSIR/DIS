@@ -20,8 +20,8 @@
 
 [Poll Answers](poll%20answers)
 
-[1.1]:week%201%20-%20Course%20Information%202018.pdf
-[1.2]:week%201%20-%20Overview%20DIS.pdf
+[0]:week%201%20-%20Course%20Information%202018.pdf
+[1]:week%201%20-%20Overview%20DIS.pdf
 [2]:week%202%20-%20Information%20Retrieval%20Basics.pdf
 [3]:week%203%20-%20IR%20Implementation.pdf
 [4]:week%204%20-%20Advanced%20Retrieval%20Models.pdf
