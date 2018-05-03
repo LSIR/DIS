@@ -12,7 +12,7 @@
 | 6    |                             | [Clustering][6]                                  |
 | 7    |                             | [Social Network Analysis][7]                     |
 | 8    |                             | [Classification Pipeline][8]                     |
-| 9    | From Documents to Knowledge | Document Classification                          |
+| 9    | From Documents to Knowledge | [Recommender Systems][9]                         |
 |      |                             | **Holiday**                                      |
 | 10   |                             | Semantic Web                                     |
 | 11   |                             | Entity and Information Extraction                |
@@ -27,3 +27,4 @@
 [6]:06.Clustering
 [7]:07.Social_Network_Analysis
 [8]:08.Classification_Pipeline
+[9]:09.Recommender_Systems
