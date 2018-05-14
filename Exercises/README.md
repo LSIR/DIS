@@ -15,7 +15,7 @@
 | 9    | From Documents to Knowledge | [Recommender Systems][9]                         |
 |      |                             | **Holiday**                                      |
 | 10   |                             | [Semantic Web][10]                               |
-| 11   |                             | Entity and Information Extraction                |
+| 11   |                             | [Entity and Information Extraction][11]          |
 | 12   |                             | Taxonomy Induction and Integration               |
 
 [0]:Prerequisites.md
@@ -29,3 +29,4 @@
 [8]:08.Classification_Pipeline
 [9]:09.Recommender_Systems
 [10]:10.Semantic_Web
+[11]:11.Entity_and_Information_Extraction
