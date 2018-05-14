@@ -14,7 +14,7 @@
 | 8    |                             | [Classification Pipeline][8]                     |
 | 9    | From Documents to Knowledge | [Recommender Systems][9]                         |
 |      |                             | **Holiday**                                      |
-| 10   |                             | Semantic Web                                     |
+| 10   |                             | [Semantic Web][10]                               |
 | 11   |                             | Entity and Information Extraction                |
 | 12   |                             | Taxonomy Induction and Integration               |
 
@@ -28,3 +28,4 @@
 [7]:07.Social_Network_Analysis
 [8]:08.Classification_Pipeline
 [9]:09.Recommender_Systems
+[10]:10.Semantic_Web
