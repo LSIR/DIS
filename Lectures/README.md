@@ -15,7 +15,7 @@
 | 10   | From Documents to Knowledge | [Applied Classification][10]                     |
 |      |                             | **Holiday**                                      |
 | 11   |                             | [Semantic Web][11]                               |
-| 12   |                             | Entity and Information Extraction                |
+| 12   |                             | [Information Extraction][12]                     |
 | 13   |                             | Taxonomy Induction and Integration               |
 
 [Poll Answers](poll%20answers)
@@ -32,3 +32,4 @@
 [9]:week%209%20-%20Classification%20Pipeline.pdf
 [10]:week%2010%20-%20Applied%20Classification.pdf
 [11]:week%2011%20-%20Semantic%20Web.pdf
+[12]:week%2012%20-%20Information%20Extraction.pdf
