@@ -16,7 +16,7 @@
 |      |                             | **Holiday**                                      |
 | 11   |                             | [Semantic Web][11]                               |
 | 12   |                             | [Information Extraction][12]                     |
-| 13   |                             | Taxonomy Induction and Integration               |
+| 13   |                             | [Graph Databases][13]                            |
 
 [Poll Answers](poll%20answers)
 
@@ -33,3 +33,4 @@
 [10]:week%2010%20-%20Applied%20Classification.pdf
 [11]:week%2011%20-%20Semantic%20Web.pdf
 [12]:week%2012%20-%20Information%20Extraction.pdf
+[13]:week%2013%20-%20Graph%20Databases.pdf
