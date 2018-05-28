@@ -16,7 +16,7 @@
 |      |                             | **Holiday**                                      |
 | 10   |                             | [Semantic Web][10]                               |
 | 11   |                             | [Entity and Information Extraction][11]          |
-| 12   |                             | [Taxonomy Induction and Integration][12]         |
+| 12   |                             | [Taxonomy Induction][12]                         |
 
 [0]:Prerequisites.md
 [1]:01.Vector_Space_Retrieval
