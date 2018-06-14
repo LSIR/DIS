@@ -34,7 +34,8 @@ conda create -n dis2018 python=3.5 scipy pandas numpy networkx nltk matplotlib j
 source activate dis2018
 ```
 
-* run a notebook server (be sure to be at the repo's folder; a browser window should open up for you)
+
+Run a notebook server (be sure to be at the repo's folder; a browser window should open up for you)
 
 ```
 jupyter notebook
