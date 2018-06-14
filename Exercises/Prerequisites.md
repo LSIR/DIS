@@ -8,7 +8,7 @@
 git clone https://github.com/LSIR/DIS2018.git
 ```
 
-[Python 3.5 or newer](https://www.python.org/)
+[Python 3.X](https://www.python.org/)
 
 [Anaconda](https://www.anaconda.com/download/) or [Miniconda](https://conda.io/miniconda.html)
 
