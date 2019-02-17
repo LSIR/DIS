@@ -10,8 +10,9 @@
 - [Jérémie Rappaz](https://people.epfl.ch/jeremie.rappaz)
 - [Panayiotis Smeros](https://people.epfl.ch/panayiotis.smeros)
 
+## Material
 
-#### In this repository you will find:
+In this repository you will find:
 - [Lecture slides with embedded notes](Lectures)
 - [Lab exercises and solutions](Exercises)
 - [Sample quizzes and exams from previous years](Mockups)
