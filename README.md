@@ -15,3 +15,11 @@ In this repository you will find:
 - [Sample quizzes and exams from previous years](Mockups)
 
 For announcements and class discussions you may subscribe to the fora on [Moodle](https://moodle.epfl.ch/course/view.php?id=4051).
+
+## Exams
+|Date |Type   |
+|:---:|:------|
+|18/03|Midterm|
+|15/04|Quiz 1 |
+|20/05|Quiz 2 |
+|?    |Final  |
