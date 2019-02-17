@@ -33,3 +33,4 @@
 [10]:notebooks/10.Semantic_Web
 [11]:notebooks/11.Entity_and_Information_Extraction
 [12]:notebooks/12.Taxonomy_Induction
+[13]:notebooks/13.Knowledge_Graphs
