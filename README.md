@@ -1,6 +1,6 @@
 ## Lecturer
 
-[Prof. Karl Aberer](http://lsir.epfl.ch/aberer/), head of the [Distributed Information Systems Laboratory, LSIR](http://lsir.epfl.ch)
+[Prof. Karl Aberer](http://lsir.epfl.ch/aberer/)
 
 ## Teaching Assistants
 
