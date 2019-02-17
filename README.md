@@ -12,8 +12,8 @@
 
 
 #### In this repository you will find:
-- Lecture slides with embedded notes
-- Lab exercises and solutions
-- Sample quizzes and exams from previous years
+- [Lecture slides with embedded notes](Lectures)
+- [Lab exercises and solutions](Exercises)
+- [Sample quizzes and exams from previous years](Mockups)
 
 For announcements and class discussions you may subscribe to the fora on [Moodle](https://moodle.epfl.ch/course/view.php?id=4051).
