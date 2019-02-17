@@ -2,32 +2,34 @@
 
 | Week | Area                        | Topic                                            |
 |:-----|:---------------------------:|:-------------------------------------------------|
-| 0    | Introduction                | [Prerequisites Installation][0]	                |
-| 1    | Information Retrieval       | [Text Retrieval Models][1]                       |
-| 2    |                             | [IR Processing: Query Expansion and Indexing][2] |
-| 3    |                             | [Advanced Retrieval Methods][3]                  |
-| 4    |                             | [Link-based Ranking, Web search][4]              |
-| 5    | Data Mining                 | [Frequent Itemsets][5]                           |
-|      |                             | **Holiday**                                      |
-| 6    |                             | [Clustering][6]                                  |
-| 7    |                             | [Social Network Analysis][7]                     |
-| 8    |                             | [Classification Pipeline][8]                     |
-| 9    | From Documents to Knowledge | [Recommender Systems][9]                         |
-|      |                             | **Holiday**                                      |
-| 10   |                             | [Semantic Web][10]                               |
-| 11   |                             | [Entity and Information Extraction][11]          |
-| 12   |                             | [Taxonomy Induction][12]                         |
+| 1    | Introduction                | [Prerequisites Installation][0]                  |
+| 2    | Information Retrieval       | [Basic Text Retrieval Models][1]                 |
+| 3    |                             | [Indexing and Probabilistic Retrieval][2]        |
+| 4    |                             | [Advanced Retrieval Methods][3]                  |
+| 5    |                             | [Relevance Feedback and Link-based Retrieval][4] |
+| 6    | Data Mining                 | [Frequent Itemset Mining][5]                     |
+| 7    |                             | [Clustering and Classification][6]               |
+| 8    |                             | [Classification Methodology][7]                  |
+| 9    |                             | [Document Classification and Recommender][8]     |
+|      |                             | ***Holiday***                                    |
+| 10   |                             | [Social network mining][9]                       |
+| 11   | From Documents to Knowledge | [Semantic Web][10]                               |
+| 12   |                             | [Entity and Information Extraction][11]          |
+| 13   |                             | [Data Integration][12]                           |
+| 14   |                             | [Knowledge Graphs][13]                           |
+
+
 
 [0]:Prerequisites.md
-[1]:01.Vector_Space_Retrieval
-[2]:02.Query_Expansion_Indexing
-[3]:03.Advanced_Information_Retrieval
-[4]:04.Link_Based_Ranking
-[5]:05.Frequent_Itemsets
-[6]:06.Clustering
-[7]:07.Social_Network_Analysis
-[8]:08.Classification_Pipeline
-[9]:09.Recommender_Systems
-[10]:10.Semantic_Web
-[11]:11.Entity_and_Information_Extraction
-[12]:12.Taxonomy_Induction
+[1]:notebooks/01.Vector_Space_Retrieval
+[2]:notebooks/02.Query_Expansion_Indexing
+[3]:notebooks/03.Advanced_Information_Retrieval
+[4]:notebooks/04.Link_Based_Ranking
+[5]:notebooks/05.Frequent_Itemsets
+[6]:notebooks/06.Clustering
+[7]:notebooks/07.Social_Network_Analysis
+[8]:notebooks/08.Classification_Pipeline
+[9]:notebooks/09.Recommender_Systems
+[10]:notebooks/10.Semantic_Web
+[11]:notebooks/11.Entity_and_Information_Extraction
+[12]:notebooks/12.Taxonomy_Induction
