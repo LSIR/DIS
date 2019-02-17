@@ -18,10 +18,10 @@
 | 13   |                             | [Data Integration][13]                           |
 | 14   |                             | [Knowledge Graphs][14]                           |
 
+[Polls](Polls)
+
 [0]:slides/week%201%20-%20Course%20Information%202019.pdf
 [1]:slides/week%201%20-%20Overview%20DIS.pdf
-<!--
-[Poll Answers](Polls)
 [2]:slides/week%202%20-%20Information%20Retrieval%20Basics.pdf
 [3]:slides/week%203%20-%20IR%20Implementation.pdf
 [4]:slides/week%204%20-%20Advanced%20Retrieval%20Models.pdf
@@ -35,4 +35,3 @@
 [12]:slides/week%2012%20-%20Information%20Extraction.pdf
 [13]:slides/week%2013%20-%20Graph%20Databases.pdf
 [14]:slides/week%2013%20-%20Graph%20Databases.pdf
--->
