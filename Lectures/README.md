@@ -20,7 +20,7 @@
 
 [Poll Answers](poll%20answers)
 
-[0]:slides/week%201%20-%20Course%20Information%202018.pdf
+[0]:slides/week%201%20-%20Course%20Information%202019.pdf
 [1]:slides/week%201%20-%20Overview%20DIS.pdf
 [2]:slides/week%202%20-%20Information%20Retrieval%20Basics.pdf
 [3]:slides/week%203%20-%20IR%20Implementation.pdf
