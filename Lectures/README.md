@@ -18,7 +18,6 @@
 | 13   |                             | [Data Integration][13]                           |
 | 14   |                             | [Knowledge Graphs][14]                           |
 
-[Polls](Polls)
 
 [0]:slides/week%201%20-%20Course%20Information%202019.pdf
 [1]:slides/week%201%20-%20Overview%20DIS.pdf
