@@ -5,7 +5,7 @@
 * clone the repo in a local folder
 
 ```
-git clone https://github.com/LSIR/DIS2018.git
+git clone https://github.com/LSIR/DIS2019.git
 ```
 
 [Python 3.X](https://www.python.org/)
@@ -25,13 +25,13 @@ python -m nltk.downloader stopwords punkt #-d /path/to/nltk_data
 * create a new environment 
 
 ```
-conda create -n dis2018 python=3.5 scipy pandas numpy networkx nltk matplotlib jupyter
+conda create -n dis2019 python=3.5 scipy pandas numpy networkx nltk matplotlib jupyter
 ```
 
 * activate it
 	
 ```
-source activate dis2018
+source activate dis2019
 ```
 
 

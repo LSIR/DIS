@@ -1,9 +1,8 @@
 
 ## Lecturer & Teaching Assistants
 - ***[Prof. Karl Aberer](http://lsir.epfl.ch/aberer/)***
-- [Chi Thang Duong](https://people.epfl.ch/thang.duong)
 - [Tugrulcan Elmas](https://people.epfl.ch/tugrulcan.elmas)
-- [Thanh Tam Nguyen](https://people.epfl.ch/tam.nguyenthanh)
+- [Chi Thang Duong](https://people.epfl.ch/thang.duong)
 - [Jérémie Rappaz](https://people.epfl.ch/jeremie.rappaz)
 - [Panayiotis Smeros](https://people.epfl.ch/panayiotis.smeros)
 
