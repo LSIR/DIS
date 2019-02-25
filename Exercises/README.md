@@ -21,7 +21,7 @@
 
 
 [0]:Prerequisites.md
-[1]:notebooks/01.Vector_Space_Retrieval
+[1]:01.Vector_Space_Retrieval
 [2]:notebooks/02.Query_Expansion_Indexing
 [3]:notebooks/03.Advanced_Information_Retrieval
 [4]:notebooks/04.Link_Based_Ranking
