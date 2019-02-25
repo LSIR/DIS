@@ -25,7 +25,7 @@ python -m nltk.downloader stopwords punkt #-d /path/to/nltk_data
 * create a new environment 
 
 ```
-conda create -n dis2019 python=3.5 scipy pandas numpy networkx nltk matplotlib jupyter
+conda create -n dis2019 python=3.5 scipy pandas numpy networkx nltk matplotlib jupyter scikit-learn
 ```
 
 * activate it
