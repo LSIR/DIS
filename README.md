@@ -13,7 +13,7 @@ In this repository you will find:
 - [Lab exercises and solutions](Exercises)
 - [Sample quizzes and exams from previous years](Mockups)
 
-For announcements and class discussions you may subscribe to the fora on [Moodle](https://moodle.epfl.ch/course/view.php?id=4051).
+For announcements and class discussions you may subscribe to the forum on [Moodle](https://moodle.epfl.ch/course/view.php?id=4051).
 
 ## Exams
 |Date |Type   |
