@@ -22,7 +22,7 @@
 [0]:slides/week%201%20-%20Course%20Information%202019.pdf
 [1]:slides/week%201%20-%20Overview%20DIS.pdf
 [2]:slides/week%202%20-%20Information%20Retrieval%20Basics.pdf
-[3]:slides/week%203%20-%20IR%20Implementation.pdf
+[3]:slides/week%203%20-%20Information%20Retrieval%20Indexing.pdf
 [4]:slides/week%204%20-%20Advanced%20Retrieval%20Models.pdf
 [5]:slides/week%205%20-%20Link%20Analysis.pdf
 [6]:slides/week%206%20-%20Frequent%20Itemsets.pdf
