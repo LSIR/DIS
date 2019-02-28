@@ -14,7 +14,7 @@ git clone https://github.com/LSIR/DIS2019.git
 
 * install conda libraries
 ```
-conda install -y scipy pandas numpy networkx nltk matplotlib jupyter
+conda install -y scipy pandas numpy networkx nltk matplotlib jupyter scikit-learn
 ```
 
 * download nltk packages
@@ -22,13 +22,13 @@ conda install -y scipy pandas numpy networkx nltk matplotlib jupyter
 python -m nltk.downloader stopwords punkt #-d /path/to/nltk_data
 ```
 
-* create a new environment 
+* create a new environment (optional)
 
 ```
 conda create -n dis2019 python=3.5 scipy pandas numpy networkx nltk matplotlib jupyter scikit-learn
 ```
 
-* activate it
+* activate it (optional)
 	
 ```
 source activate dis2019
