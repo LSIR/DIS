@@ -24,7 +24,7 @@
 [2]:slides/week%202%20-%20Information%20Retrieval%20Basics.pdf
 [3]:slides/week%203%20-%20Information%20Retrieval%20Indexing.pdf
 [4]:slides/week%204%20-%20Advanced%20Retrieval%20Models.pdf
-[5]:slides/week%205%20-%20Link%20Analysis.pdf
+[5]:slides/week%205%20-%20Relevance%20Feedback%20and%20Link%20Based%20Ranking.pdf
 [6]:slides/week%206%20-%20Frequent%20Itemsets.pdf
 [7]:slides/week%207%20-%20Clustering.pdf
 [8]:slides/week%208%20-%20Classification.pdf
