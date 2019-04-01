@@ -26,7 +26,7 @@
 [4]:slides/week%204%20-%20Advanced%20Retrieval%20Models.pdf
 [5]:slides/week%205%20-%20Relevance%20Feedback%20and%20Link%20Based%20Ranking.pdf
 [6]:slides/week%206%20-%20Frequent%20Itemsets.pdf
-[7]:slides/week%207%20-%20Clustering.pdf
+[7]:slides/week%207%20-%20Clustering%20and%20Classification.pdf
 [8]:slides/week%208%20-%20Classification.pdf
 [9]:slides/week%209%20-%20Classification%20Pipeline.pdf
 [10]:slides/week%2010%20-%20Applied%20Classification.pdf
