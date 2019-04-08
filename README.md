@@ -21,4 +21,4 @@ For announcements and class discussions you may subscribe to the fora on [Moodle
 |18/03|Midterm|
 |15/04|Quiz 1 |
 |20/05|Quiz 2 |
-|?    |Final  |
+|29/06|Final  |
