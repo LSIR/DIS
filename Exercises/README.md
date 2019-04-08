@@ -24,10 +24,10 @@
 [1]:notebooks/01.Vector_Space_Retrieval
 [2]:notebooks/02.Indexing_Probabilistic_Retrieval
 [3]:notebooks/03.Advanced_Information_Retrieval
-[4]:notebooks/04.Link_Based_Ranking
+[4]:notebooks/04.Relevance_Feedback
 [5]:notebooks/05.Frequent_Itemsets
 [6]:notebooks/06.Clustering
-[7]:notebooks/07.Social_Network_Analysis
+[7]:notebooks/07.Classification
 [8]:notebooks/08.Classification_Pipeline
 [9]:notebooks/09.Recommender_Systems
 [10]:notebooks/10.Semantic_Web
