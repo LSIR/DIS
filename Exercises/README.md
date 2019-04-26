@@ -29,7 +29,7 @@
 [6]:notebooks/06.Clustering
 [7]:notebooks/07.Classification
 [8]:notebooks/08.Classification_Pipeline
-[9]:notebooks/09.Recommender_Systems
+[9]:notebooks/09.Social_Network_Analysis
 [10]:notebooks/10.Semantic_Web
 [11]:notebooks/11.Entity_and_Information_Extraction
 [12]:notebooks/12.Taxonomy_Induction
