@@ -29,7 +29,7 @@
 [7]:slides/week%207%20-%20Clustering%20and%20Classification.pdf
 [8]:slides/week%208%20-%20Classification%20Methodology.pdf
 [9]:slides/week%209%20-%20Applied%20Classification.pdf
-[10]:slides/week%2010%20-%20Applied%20Classification.pdf
+[10]:slides/week%2010%20-%20Social%20Network%20Mining.pdf
 [11]:slides/week%2011%20-%20Semantic%20Web.pdf
 [12]:slides/week%2012%20-%20Information%20Extraction.pdf
 [13]:slides/week%2013%20-%20Graph%20Databases.pdf
