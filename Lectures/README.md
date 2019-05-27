@@ -33,4 +33,4 @@
 [11]:slides/week%2011%20-%20Semantic%20Web.pdf
 [12]:slides/week%2012%20-%20Information%20Extraction.pdf
 [13]:slides/week%2013%20-%20Taxonomy%20Induction.pdf
-[14]:slides/week%2013%20-%20Knowledge%20Inference.pdf
+[14]:slides/week%2014%20-%20Knowledge%20Inference.pdf
