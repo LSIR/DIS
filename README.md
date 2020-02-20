@@ -1,31 +1,25 @@
 # Distributed Information Systems 2020
-
-## Lecturer & Teaching Assistants
-- ***[Prof. Karl Aberer](http://lsir.epfl.ch/aberer/)***
-- [Tugrulcan Elmas](https://people.epfl.ch/tugrulcan.elmas)
-- [Chi Thang Duong](https://people.epfl.ch/thang.duong)
-- [Jérémie Rappaz](https://people.epfl.ch/jeremie.rappaz)
-- [Panayiotis Smeros](https://people.epfl.ch/panayiotis.smeros)
+###### Lecturer: ***[Karl Aberer](http://lsir.epfl.ch/aberer/)***, Teaching Assistants: [Tugrulcan Elmas](https://people.epfl.ch/tugrulcan.elmas), [Chi Thang Duong](https://people.epfl.ch/thang.duong), [Jérémie Rappaz](https://people.epfl.ch/jeremie.rappaz) and [Panayiotis Smeros](https://people.epfl.ch/panayiotis.smeros)
 
 
 ## Schedule
-| Date  | Area                        | Topic                                       | Links*                                |
-|:------|:---------------------------:|:--------------------------------------------|:--------------------------------------|
-| 17/02 | Introduction                | Course Information - Overview               | [[slides][0], [slides][1], [lab][0l]] |
-| 24/02 | Information Retrieval       | Basic Text Retrieval Models                 | [[slides][2], [lab][1l]]              |
-| 02/03 |                             | Indexing and Probabilistic Retrieval        | [[slides][3], [lab][2l]]              |
-| 09/03 |                             | Advanced Retrieval Methods                  | [[slides][4], [lab][3l]]              |
-| 16/03 |                             | Relevance Feedback and Link-based Retrieval | [[slides][5], [lab][4l]]              |
-| 23/03 | Data Mining                 | Frequent Itemset Mining                     | [[slides][6], [lab][5l]]              |
-| 30/03 |                             | Clustering and Classification               | [[slides][7], [lab][6l]]              |
-| 06/04 |                             | Classification Methodology                  | [[slides][8], [lab][7l]]              |
-| 13/04 |                             | ***Holiday***                               |                                       |
-| 20/04 |                             | Document Classification and Recommender     | [[slides][9], [lab][8l]]              |
-| 27/04 |                             | Social network mining                       | [[slides][10], [lab][9l]]             |
-| 04/05 | From Documents to Knowledge | Semantic Web                                | [[slides][11], [lab][10l]]            |
-| 11/05 |                             | Entity and Information Extraction           | [[slides][12], [lab][11l]]            |
-| 18/05 |                             | Data Integration                            | [[slides][13], [lab][12l]]            |
-| 25/05 |                             | Knowledge Graphs                            | [[slides][14], [lab][13l]]            |
+| Date      | Exam        | Area                        | Topic                                       | Links*                                |
+|:---------:|:-----------:|:----------------------------|:--------------------------------------------|:--------------------------------------|
+| 17/02     | -           | Introduction                | Course Information - Overview               | [[slides][0], [slides][1], [lab][0l]] |
+| 24/02     | -           | Information Retrieval       | Basic Text Retrieval Models                 | [[slides][2], [lab][1l]]              |
+| 02/03     | -           |                             | Indexing and Probabilistic Retrieval        | [[slides][3], [lab][2l]]              |
+| 09/03     | -           |                             | Advanced Retrieval Methods                  | [[slides][4], [lab][3l]]              |
+| 16/03     | **Midterm** |                             | Relevance Feedback and Link-based Retrieval | [[slides][5], [lab][4l]]              |
+| 23/03     | -           | Data Mining                 | Frequent Itemset Mining                     | [[slides][6], [lab][5l]]              |
+| 30/03     | -           |                             | Clustering and Classification               | [[slides][7], [lab][6l]]              |
+| 06/04     | -           |                             | Classification Methodology                  | [[slides][8], [lab][7l]]              |
+| ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                        | ~~~~                                  |
+| 20/04     | **Quiz 1**  |                             | Document Classification and Recommender     | [[slides][9], [lab][8l]]              |
+| 27/04     | -           |                             | Social network mining                       | [[slides][10], [lab][9l]]             |
+| 04/05     | -           | From Documents to Knowledge | Semantic Web                                | [[slides][11], [lab][10l]]            |
+| 11/05     | -           |                             | Entity and Information Extraction           | [[slides][12], [lab][11l]]            |
+| 18/05     | **Quiz 2**  |                             | Data Integration                            | [[slides][13], [lab][12l]]            |
+| 25/05     | -           |                             | Knowledge Graphs                            | [[slides][14], [lab][13l]]            |
 
 \* All the lecture slides have embedded notes. All the lab exercises are accompanied by their solutions.
 
@@ -61,21 +55,11 @@
 [13l]:Exercises/13.Knowledge_Inference
 
 
-## Evaluation
-| Date  |Type     |
-|:------|:--------|
-| 16/03 | Midterm |
-| 20/04 | Quiz 1  |
-| 18/05 | Quiz 2  |
-| TBD   | Final   |
+## Exam
+TBD
 
 
 ## Extras
 For announcements and class discussions you may subscribe to the [Moodle fora](https://moodle.epfl.ch/course/view.php?id=4051).
 
-Mockups
-- [2019 Poll Answers](Extras/2019-Polls)
-- [2019 Midterm Exam](Extras/2019-Midterm)
-- [2018 Quizzes](Extras/2018-Quizzes)
-- [2018 Final Exam](Extras/2018-Final)
-
+Previous Years: [2019 Poll Answers](Extras/2019-Polls), [2019 Midterm Exam](Extras/2019-Midterm), [2018 Quizzes](Extras/2018-Quizzes), [2018 Final Exam](Extras/2018-Final).
