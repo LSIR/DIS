@@ -1,5 +1,5 @@
 # Distributed Information Systems 2020
-###### Lecturer: ***[Karl Aberer](http://lsir.epfl.ch/aberer/)***, Teaching Assistants: [Tugrulcan Elmas](https://people.epfl.ch/tugrulcan.elmas), [Chi Thang Duong](https://people.epfl.ch/thang.duong), [Jérémie Rappaz](https://people.epfl.ch/jeremie.rappaz) and [Panayiotis Smeros](https://people.epfl.ch/panayiotis.smeros)
+###### Lecturer: ***[Karl Aberer](http://lsir.epfl.ch/aberer/)***, Teaching Assistants: [Tuğrulcan Elmas](https://people.epfl.ch/tugrulcan.elmas), [Chi Thang Duong](https://people.epfl.ch/thang.duong), [Jérémie Rappaz](https://people.epfl.ch/jeremie.rappaz) and [Panayiotis Smeros](https://people.epfl.ch/panayiotis.smeros)
 
 
 ## Schedule
