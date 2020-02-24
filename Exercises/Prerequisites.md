@@ -19,7 +19,7 @@ conda install -y scipy pandas numpy networkx nltk matplotlib jupyter scikit-lear
 
 * download nltk packages
 ```
-python -m nltk.downloader stopwords punkt #-d /path/to/nltk_data
+python -m nltk.downloader stopwords punkt
 ```
 
 * create a new environment (optional)
