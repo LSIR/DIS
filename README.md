@@ -21,23 +21,23 @@
 | 18/05     | **Quiz 2**  |                             | Data Integration                            | [[slides][13], [lab][12l]]            |
 | 25/05     | -           |                             | Knowledge Graphs                            | [[slides][14], [lab][13l]]            |
 
-\* All the lecture slides have embedded notes. All the lab exercises are accompanied by their solutions.
+\* All the lecture slides have embedded notes and are provided both in ppt and in pdf format. All the lab exercises are accompanied by their solutions.
 
-[0]:Lectures/week%201%20-%20Course%20Information%202020.pptx?raw=true
-[1]:Lectures/week%201%20-%20Overview%20DIS.pptx?raw=true
-[2]:Lectures/week%202%20-%20Information%20Retrieval%20Basics.pptx?raw=true
-[3]:Lectures/week%203%20-%20Information%20Retrieval%20Indexing.pptx?raw=true
-[4]:Lectures/week%204%20-%20Advanced%20Retrieval%20Models.pptx?raw=true
-[5]:Lectures/week%205%20-%20Relevance%20Feedback%20and%20Link%20Based%20Ranking.pptx?raw=true
-[6]:Lectures/week%206%20-%20Frequent%20Itemsets.pptx?raw=true
-[7]:Lectures/week%207%20-%20Clustering%20and%20Classification.pptx?raw=true
-[8]:Lectures/week%208%20-%20Classification%20Methodology.pptx?raw=true
-[9]:Lectures/week%209%20-%20Applied%20Classification.pptx?raw=true
-[10]:Lectures/week%2010%20-%20Social%20Network%20Mining.pptx?raw=true
-[11]:Lectures/week%2011%20-%20Semantic%20Web.pptx?raw=true
-[12]:Lectures/week%2012%20-%20Information%20Extraction.pptx?raw=true
-[13]:Lectures/week%2013%20-%20Taxonomy%20Induction.pptx?raw=true
-[14]:Lectures/week%2014%20-%20Knowledge%20Inference.pptx?raw=true
+[0]:Lectures/week%201%20-%20Course%20Information%202020.pdf
+[1]:Lectures/week%201%20-%20Overview%20DIS.pdf
+[2]:Lectures/week%202%20-%20Information%20Retrieval%20Basics.pdf
+[3]:Lectures/week%203%20-%20Information%20Retrieval%20Indexing.pdf
+[4]:Lectures/week%204%20-%20Advanced%20Retrieval%20Models.pdf
+[5]:Lectures/week%205%20-%20Relevance%20Feedback%20and%20Link%20Based%20Ranking.pdf
+[6]:Lectures/week%206%20-%20Frequent%20Itemsets.pdf
+[7]:Lectures/week%207%20-%20Clustering%20and%20Classification.pdf
+[8]:Lectures/week%208%20-%20Classification%20Methodology.pdf
+[9]:Lectures/week%209%20-%20Applied%20Classification.pdf
+[10]:Lectures/week%2010%20-%20Social%20Network%20Mining.pdf
+[11]:Lectures/week%2011%20-%20Semantic%20Web.pdf
+[12]:Lectures/week%2012%20-%20Information%20Extraction.pdf
+[13]:Lectures/week%2013%20-%20Taxonomy%20Induction.pdf
+[14]:Lectures/week%2014%20-%20Knowledge%20Inference.pdf
 
 [0l]:Exercises/Prerequisites.md
 [1l]:Exercises/01.Vector_Space_Retrieval
