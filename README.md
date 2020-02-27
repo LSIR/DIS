@@ -14,8 +14,8 @@
 | 30/03     | -           |                             | Clustering and Classification               | [[slides][7], [lab][6l]]              |
 | 06/04     | -           |                             | Classification Methodology                  | [[slides][8], [lab][7l]]              |
 | ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                        | ~~~~                                  |
-| 20/04     | **Quiz 1**  |                             | Document Classification and Recommender     | [[slides][9], [lab][8l]]              |
-| 27/04     | -           |                             | Social network mining                       | [[slides][10], [lab][9l]]             |
+| 20/04     | -           |                             | Document Classification and Recommender     | [[slides][9], [lab][8l]]              |
+| 27/04     | **Quiz 1**  |                             | Social network mining                       | [[slides][10], [lab][9l]]             |
 | 04/05     | -           | From Documents to Knowledge | Semantic Web                                | [[slides][11], [lab][10l]]            |
 | 11/05     | -           |                             | Entity and Information Extraction           | [[slides][12], [lab][11l]]            |
 | 18/05     | **Quiz 2**  |                             | Data Integration                            | [[slides][13], [lab][12l]]            |
