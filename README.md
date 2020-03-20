@@ -6,23 +6,23 @@
 * Lab Meeting (12.15pm-13.00pm): https://epfl.zoom.us/j/935609541
 
 ## Schedule
-| Date      | Exam        | Area                        | Lecture Slides                                 | Lab Exercises |
-|:---------:|:-----------:|:----------------------------|:-----------------------------------------------|:--------------|
-| 17/02     | -           | Introduction                | [Course Information][0] - [Overview][1]        | [lab 0][0l]   |
-| 24/02     | -           | Information Retrieval       | [Information Retrieval Basics][2]              | [lab 1][1l]   |
-| 02/03     | -           |                             | [Information Retrieval Indexing][3]            | [lab 2][2l]   |
-| 09/03     | -           |                             | [Advanced Retrieval Methods][4]                | [lab 3][3l]   |
-| 16/03     | **Midterm** |                             | [Relevance Feedback and Link-Based Ranking][5] | [lab 4][4l]   |
-| 23/03     | -           | Data Mining                 | [Frequent Itemsets][6]                         | [lab 5][5l]   |
-| 30/03     | -           |                             | [Clustering and Classification][7]             | [lab 6][6l]   |
-| 06/04     | -           |                             | [Classification Methodology][8]                | [lab 7][7l]   |
-| ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                           | ~~~~          |
-| 20/04     | -           |                             | [Applied Clasification][9]                     | [lab 8][8l]   |
-| 27/04     | **Quiz 1**  |                             | [Social Network Mining][10]                    | [lab 9][9l]   |
-| 04/05     | -           | From Documents to Knowledge | [Semantic Web][11]                             | [lab 10][10l] |
-| 11/05     | -           |                             | [Information Extraction][12]                   | [lab 11][11l] |
-| 18/05     | **Quiz 2**  |                             | [Taxonomy Induction][13]                       | [lab 12][12l] |
-| 25/05     | -           |                             | [Knowledge Inference][14]                      | [lab 13][13l] |
+| Date      | Exam        | Area                        | Lecture Slides                          | Lab Exercises |
+|:---------:|:-----------:|:----------------------------|:----------------------------------------|:--------------|
+| 17/02     | -           | Introduction                | [Course Information][0] - [Overview][1] | [lab 0][0l]   |
+| 24/02     | -           | Information Retrieval       | [Information Retrieval Basics][2]       | [lab 1][1l]   |
+| 02/03     | -           |                             | [Information Retrieval Indexing][3]     | [lab 2][2l]   |
+| 09/03     | -           |                             | [Advanced Retrieval Methods][4]         | [lab 3][3l]   |
+| 16/03     | **Midterm** |                             | [Link-Based Ranking][5]                 | [lab 4][4l]   |
+| 23/03     | -           | Data Mining                 | [Frequent Itemsets][6]                  | [lab 5][5l]   |
+| 30/03     | -           |                             | [Clustering and Classification][7]      | [lab 6][6l]   |
+| 06/04     | -           |                             | [Classification Methodology][8]         | [lab 7][7l]   |
+| ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                    | ~~~~          |
+| 20/04     | -           |                             | [Applied Clasification][9]              | [lab 8][8l]   |
+| 27/04     | **Quiz 1**  |                             | [Social Network Mining][10]             | [lab 9][9l]   |
+| 04/05     | -           | From Documents to Knowledge | [Semantic Web][11]                      | [lab 10][10l] |
+| 11/05     | -           |                             | [Information Extraction][12]            | [lab 11][11l] |
+| 18/05     | **Quiz 2**  |                             | [Taxonomy Induction][13]                | [lab 12][12l] |
+| 25/05     | -           |                             | [Knowledge Inference][14]               | [lab 13][13l] |
 
 All the lecture slides have embedded notes and are provided both in ppt and in pdf format. 
 All the lab exercises are accompanied by their solutions.
@@ -32,7 +32,7 @@ All the lab exercises are accompanied by their solutions.
 [2]:Lectures/week%202%20-%20Information%20Retrieval%20Basics.pdf
 [3]:Lectures/week%203%20-%20Information%20Retrieval%20Indexing.pdf
 [4]:Lectures/week%204%20-%20Advanced%20Retrieval%20Models.pdf
-[5]:Lectures/week%205%20-%20Relevance%20Feedback%20and%20Link%20Based%20Ranking.pdf
+[5]:Lectures/week%205%20-%20Link%20Based%20Ranking.pdf
 [6]:Lectures/week%206%20-%20Frequent%20Itemsets.pdf
 [7]:Lectures/week%207%20-%20Clustering%20and%20Classification.pdf
 [8]:Lectures/week%208%20-%20Classification%20Methodology.pdf
