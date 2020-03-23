@@ -6,13 +6,13 @@
 * Lab Meeting (12.15pm-13.00pm): https://epfl.zoom.us/j/935609541
 
 ## Schedule
-| Date      | Exam        | Area                        | Lecture Slides                          | Lab Exercises |
+| Date      | Exam        | Area                        | Lecture                                 | Lab Exercises |
 |:---------:|:-----------:|:----------------------------|:----------------------------------------|:--------------|
 | 17/02     | -           | Introduction                | [Course Information][0] - [Overview][1] | [lab 0][0l]   |
 | 24/02     | -           | Information Retrieval       | [Information Retrieval Basics][2]       | [lab 1][1l]   |
 | 02/03     | -           |                             | [Information Retrieval Indexing][3]     | [lab 2][2l]   |
 | 09/03     | -           |                             | [Advanced Retrieval Methods][4]         | [lab 3][3l]   |
-| 16/03     | **Midterm** |                             | [Link-Based Ranking][5]                 | [lab 4][4l]   |
+| 16/03     | **Midterm** |                             | [Link-Based Ranking][5] [[video][5v]]   | [lab 4][4l]   |
 | 23/03     | -           | Data Mining                 | [Frequent Itemsets][6]                  | [lab 5][5l]   |
 | 30/03     | -           |                             | [Clustering and Classification][7]      | [lab 6][6l]   |
 | 06/04     | -           |                             | [Classification Methodology][8]         | [lab 7][7l]   |
@@ -58,6 +58,7 @@ All the lab exercises are accompanied by their solutions.
 [12l]:Exercises/12.Taxonomy_Induction
 [13l]:Exercises/13.Knowledge_Inference
 
+[5v]:https://epfl.zoom.us/rec/play/68B4cO_-_Wk3H9yd5ASDAPF5W9W0LqishiBN-fZZnU_nBiMAYFr0M-QTa7CgDLVmw2qLbjqsglZyNyHO?continueMode=true&_x_zm_rtaid=PtmWe9BMSAKfrxIU7TgwiQ.1584954633131.59aea39a1b6e6b54e4aab332c7922c2e&_x_zm_rhtaid=861
 
 ## Exam
 TBD
