@@ -14,7 +14,7 @@
 | 09/03     | -           |                             | Advanced Retrieval Methods [[pdf][4p], [lab][4l]]                |
 | 16/03     | **Midterm** |                             | Link-Based Ranking [[pdf][5p], [video][5v], [lab][5l]]           |
 | 23/03     | -           | Data Mining                 | Frequent Itemsets [[pdf][6p], [video][6v], [lab][6l]]            |
-| 30/03     | -           |                             | Clustering and Classification [[pdf][7p], [lab][7l]]|
+| 30/03     | -           |                             | Clustering [[pdf][7p], [lab][7l]]|
 | 06/04     | -           |                             | Classification Methodology                                    |
 | ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                                          |
 | 20/04     | -           |                             | Applied Clasification                                         |
@@ -35,7 +35,7 @@ Starting from 16/03, all the lectures are recorded.
 [4p]:Lectures/week%204%20-%20Advanced%20Retrieval%20Models.pdf
 [5p]:Lectures/week%205%20-%20Link%20Based%20Ranking.pdf
 [6p]:Lectures/week%206%20-%20Frequent%20Itemsets.pdf
-[7p]:Lectures/week%207%20-%20Clustering%20and%20Classification.pdf
+[7p]:Lectures/week%207%20-%20Clustering.pdf
 [8p]:Lectures/week%208%20-%20Classification%20Methodology.pdf
 [9p]:Lectures/week%209%20-%20Applied%20Classification.pdf
 [10p]:Lectures/week%2010%20-%20Social%20Network%20Mining.pdf
