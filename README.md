@@ -2,19 +2,19 @@
 ###### Lecturer: ***[Karl Aberer](http://lsir.epfl.ch/aberer/)***, Teaching Assistants: [Chí Thắng Dương](https://people.epfl.ch/thang.duong), [Tuğrulcan Elmas](https://people.epfl.ch/tugrulcan.elmas), [Negar Foroutan Eghlidi](https://people.epfl.ch/negar.foroutan), [Jérémie Rappaz](https://people.epfl.ch/jeremie.rappaz) and [Panayiotis Smeros](https://people.epfl.ch/panayiotis.smeros)
 
 ## E-Class
-* Lecture Webinar (10.15am-12.00pm): https://epfl.zoom.us/j/796815432
+* Lecture Webinar (10.15am-12.00pm): https://epfl.zoom.us/j/879180710
 * Lab Meeting (12.15pm-13.00pm): https://epfl.zoom.us/j/935609541
 
 ## Schedule
-| Date      | Exam        | Area                        | Material                                                      |
-|:---------:|:-----------:|:----------------------------|:--------------------------------------------------------------|
-| 17/02     | -           | Introduction                | Course Information - Overview [[pdf][0p], [pdf][1p], [lab][1l]] |
-| 24/02     | -           | Information Retrieval       | Information Retrieval Basics [[pdf][2p], [lab][2l]]            |
-| 02/03     | -           |                             | Information Retrieval Indexing [[pdf][3p], [lab][3l]]          |
-| 09/03     | -           |                             | Advanced Retrieval Methods [[pdf][4p], [lab][4l]]              |
-| 16/03     | **Midterm** |                             | Link-Based Ranking [[pdf][5p], [video][5v], [lab][5l]]         |
-| 23/03     | -           | Data Mining                 | Frequent Itemsets [[pdf][6p], [video][6v], [lab][6l]]          |
-| 30/03     | -           |                             | Clustering and Classification                                 |
+| Date      | Exam        | Area                        | Material                                                         |
+|:---------:|:-----------:|:----------------------------|:-----------------------------------------------------------------|
+| 17/02     | -           | Introduction                | Course Information - Overview [[pdf][0p], [pdf][1p], [lab][1l]]  |
+| 24/02     | -           | Information Retrieval       | Information Retrieval Basics [[pdf][2p], [lab][2l]]              |
+| 02/03     | -           |                             | Information Retrieval Indexing [[pdf][3p], [lab][3l]]            |
+| 09/03     | -           |                             | Advanced Retrieval Methods [[pdf][4p], [lab][4l]]                |
+| 16/03     | **Midterm** |                             | Link-Based Ranking [[pdf][5p], [video][5v], [lab][5l]]           |
+| 23/03     | -           | Data Mining                 | Frequent Itemsets [[pdf][6p], [video][6v], [lab][6l]]            |
+| 30/03     | -           |                             | Clustering and Classification [[pdf][7p], [lab][7l]]|
 | 06/04     | -           |                             | Classification Methodology                                    |
 | ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                                          |
 | 20/04     | -           |                             | Applied Clasification                                         |
