@@ -6,15 +6,15 @@
 * Lab Meeting (12.15pm-13.00pm): https://epfl.zoom.us/j/935609541
 
 ## Schedule
-| Date      | Exam        | Area                        | Material                                                         |
-|:---------:|:-----------:|:----------------------------|:-----------------------------------------------------------------|
-| 17/02     | -           | Introduction                | Course Information - Overview [[pdf][0p], [pdf][1p], [lab][1l]]  |
-| 24/02     | -           | Information Retrieval       | Information Retrieval Basics [[pdf][2p], [lab][2l]]              |
-| 02/03     | -           |                             | Information Retrieval Indexing [[pdf][3p], [lab][3l]]            |
-| 09/03     | -           |                             | Advanced Retrieval Methods [[pdf][4p], [lab][4l]]                |
-| 16/03     | **Midterm** |                             | Link-Based Ranking [[pdf][5p], [video][5v], [lab][5l]]           |
-| 23/03     | -           | Data Mining                 | Frequent Itemsets [[pdf][6p], [video][6v], [lab][6l]]            |
-| 30/03     | -           |                             | Clustering [[pdf][7p], [lab][7l]]|
+| Date      | Exam        | Area                        | Material                                                        |
+|:---------:|:-----------:|:----------------------------|:----------------------------------------------------------------|
+| 17/02     | -           | Introduction                | Course Information - Overview [[pdf][0p], [pdf][1p], [lab][1l]] |
+| 24/02     | -           | Information Retrieval       | Information Retrieval Basics [[pdf][2p], [lab][2l]]             |
+| 02/03     | -           |                             | Information Retrieval Indexing [[pdf][3p], [lab][3l]]           |
+| 09/03     | -           |                             | Advanced Retrieval Methods [[pdf][4p], [lab][4l]]               |
+| 16/03     | **Midterm** |                             | Link-Based Ranking [[pdf][5p], [video][5v], [lab][5l]]          |
+| 23/03     | -           | Data Mining                 | Frequent Itemsets [[pdf][6p], [video][6v], [lab][6l]]           |
+| 30/03     | -           |                             | Clustering [[pdf][7p], [video][7v], [lab][7l]]                  |
 | 06/04     | -           |                             | Classification Methodology                                    |
 | ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                                          |
 | 20/04     | -           |                             | Applied Clasification                                         |
@@ -61,7 +61,7 @@ Starting from 16/03, all the lectures are recorded.
 
 [5v]:https://epfl.zoom.us/rec/share/7_NOCe3frWBLbdL88Wzcfr8dBo_jX6a82nMZ_KAMyxnjqwIPxHGAh_C2wvab-vhy
 [6v]:https://epfl.zoom.us/rec/share/vfRVKvbv7zNLX6PpxmLUdYcZD6bpeaa8hHAf_fUNxBlsCe4ttQg_rQ7XP8lZAF2a
-[7v]:TBD
+[7v]:https://epfl.zoom.us/rec/share/6txnPrDPzjNIZKPxy3_aYvI7T57JT6a8gChIrKULnUfJMJz3h4x0qWl1vacJD2ZN 
 [8v]:TBD
 [9v]:TBD
 [10v]:TBD
