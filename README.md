@@ -15,7 +15,7 @@
 | 16/03     | **Midterm** |                             | Link-Based Ranking [[pdf][5p], [video][5v], [lab][5l]]          |
 | 23/03     | -           | Data Mining                 | Frequent Itemsets [[pdf][6p], [video][6v], [lab][6l]]           |
 | 30/03     | -           |                             | Clustering [[pdf][7p], [video][7v], [lab][7l]]                  |
-| 06/04     | -           |                             | Classification [[pdf][8p], [video][8v], [lab][8l]]              |
+| 06/04     | -           |                             | Classification [[pdf][8p], [lab][8l]]              |
 | ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                                          |
 | 20/04     | -           |                             | Applied Clasification                                         |
 | 27/04     | **Quiz 1**  |                             | Social Network Mining                                         |
