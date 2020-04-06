@@ -15,8 +15,8 @@
 | 16/03     | **Midterm** |                             | Link-Based Ranking [[pdf][5p], [video][5v], [lab][5l]]          |
 | 23/03     | -           | Data Mining                 | Frequent Itemsets [[pdf][6p], [video][6v], [lab][6l]]           |
 | 30/03     | -           |                             | Clustering [[pdf][7p], [video][7v], [lab][7l]]                  |
-| 06/04     | -           |                             | Classification [[pdf][8p], [lab][8l]]              |
-| ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                                          |
+| 06/04     | -           |                             | Classification [[pdf][8p], [video][8v], [lab][8l]]              |
+| ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                                            |
 | 20/04     | -           |                             | Applied Clasification                                         |
 | 27/04     | **Quiz 1**  |                             | Social Network Mining                                         |
 | 04/05     | -           | From Documents to Knowledge | Semantic Web                                                  |
@@ -62,7 +62,7 @@ Starting from 16/03, all the lectures are recorded.
 [5v]:https://epfl.zoom.us/rec/share/7_NOCe3frWBLbdL88Wzcfr8dBo_jX6a82nMZ_KAMyxnjqwIPxHGAh_C2wvab-vhy
 [6v]:https://epfl.zoom.us/rec/share/vfRVKvbv7zNLX6PpxmLUdYcZD6bpeaa8hHAf_fUNxBlsCe4ttQg_rQ7XP8lZAF2a
 [7v]:https://epfl.zoom.us/rec/share/6txnPrDPzjNIZKPxy3_aYvI7T57JT6a8gChIrKULnUfJMJz3h4x0qWl1vacJD2ZN 
-[8v]:TBD
+[8v]:https://epfl.zoom.us/rec/share/upUqHo7K7WxJT7fisxzyf4odLID3X6a8hnUbqaZezUoE3JKvJyvgubKdMfnG69FJ
 [9v]:TBD
 [10v]:TBD
 [11v]:TBD
