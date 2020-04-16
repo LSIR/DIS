@@ -17,7 +17,7 @@
 | 30/03     | -           |                             | Clustering [[pdf][7p], [video][7v], [lab][7l]]                  |
 | 06/04     | -           |                             | Classification [[pdf][8p], [video][8v], [lab][8l]]              |
 | ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                                            |
-| 20/04     | -           |                             | Applied Clasification                                         |
+| 20/04     | -           |                             | Applied Clasification[[pdf][9p], [lab][9l]]        |
 | 27/04     | **Quiz 1**  |                             | Social Network Mining                                         |
 | 04/05     | -           | From Documents to Knowledge | Semantic Web                                                  |
 | 11/05     | -           |                             | Information Extraction                                        |
@@ -59,10 +59,10 @@ Starting from 16/03, all the lectures are recorded.
 [13l]:Exercises/12.Taxonomy_Induction
 [14l]:Exercises/13.Knowledge_Inference
 
-[5v]:https://epfl.zoom.us/rec/share/7_NOCe3frWBLbdL88Wzcfr8dBo_jX6a82nMZ_KAMyxnjqwIPxHGAh_C2wvab-vhy
-[6v]:https://epfl.zoom.us/rec/share/vfRVKvbv7zNLX6PpxmLUdYcZD6bpeaa8hHAf_fUNxBlsCe4ttQg_rQ7XP8lZAF2a
-[7v]:https://epfl.zoom.us/rec/share/6txnPrDPzjNIZKPxy3_aYvI7T57JT6a8gChIrKULnUfJMJz3h4x0qWl1vacJD2ZN 
-[8v]:https://epfl.zoom.us/rec/share/upUqHo7K7WxJT7fisxzyf4odLID3X6a8hnUbqaZezUoE3JKvJyvgubKdMfnG69FJ
+[5v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-03-16%20Word%20Embeddings%20and%20Link-based%20Ranking
+[6v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-03-23%20Link-Based%20Ranking%20and%20Association%20Rule%20Mining
+[7v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-03-30%20Association%20Rule%20Mining%20and%20Clustering
+[8v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-04-06%20Classification
 [9v]:TBD
 [10v]:TBD
 [11v]:TBD
