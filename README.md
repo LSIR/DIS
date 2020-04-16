@@ -17,7 +17,7 @@
 | 30/03     | -           |                             | Clustering [[pdf][7p], [video][7v], [lab][7l]]                  |
 | 06/04     | -           |                             | Classification [[pdf][8p], [video][8v], [lab][8l]]              |
 | ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                                            |
-| 20/04     | -           |                             | Clasification Methodology[[pdf][9p], [lab][9l]]        |
+| 20/04     | -           |                             | Classification Methodology [[pdf][9p], [lab][9l]]        |
 | 27/04     | **Quiz 1**  |                             | Social Network Mining                                         |
 | 04/05     | -           | From Documents to Knowledge | Semantic Web                                                  |
 | 11/05     | -           |                             | Information Extraction                                        |
@@ -37,7 +37,7 @@ Starting from 16/03, all the lectures are recorded.
 [6p]:Lectures/week%206%20-%20Frequent%20Itemsets.pdf
 [7p]:Lectures/week%207%20-%20Clustering.pdf
 [8p]:Lectures/week%208%20-%20Classification.pdf
-[9p]:Lectures/week%209%20-%20Clasification%20Methodology.pdf
+[9p]:Lectures/week%209%20-%20Classification%20Methodology.pdf
 [10p]:Lectures/week%2010%20-%20Social%20Network%20Mining.pdf
 [11p]:Lectures/week%2011%20-%20Semantic%20Web.pdf
 [12p]:Lectures/week%2012%20-%20Information%20Extraction.pdf
