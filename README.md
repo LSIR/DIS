@@ -2,7 +2,7 @@
 ###### Lecturer: ***[Karl Aberer](http://lsir.epfl.ch/aberer/)***, Teaching Assistants: [Chí Thắng Dương](https://people.epfl.ch/thang.duong), [Tuğrulcan Elmas](https://people.epfl.ch/tugrulcan.elmas), [Negar Foroutan Eghlidi](https://people.epfl.ch/negar.foroutan), [Jérémie Rappaz](https://people.epfl.ch/jeremie.rappaz) and [Panayiotis Smeros](https://people.epfl.ch/panayiotis.smeros)
 
 ## E-Class
-* Lecture Webinar (10.15am-12.00pm): https://epfl.zoom.us/j/225466727
+* Lecture Webinar (10.15am-12.00pm): https://epfl.zoom.us/j/95831825385
 * Lab Meeting (12.15pm-13.00pm): https://epfl.zoom.us/j/935609541
 
 ## Schedule
@@ -17,7 +17,7 @@
 | 30/03     | -           |                             | Clustering [[pdf][7p], [video][7v], [lab][7l]]                  |
 | 06/04     | -           |                             | Classification [[pdf][8p], [video][8v], [lab][8l]]              |
 | ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                                            |
-| 20/04     | -           |                             | Applied Clasification                                         |
+| 20/04     | -           |                             | Classification Methodology [[pdf][9p], [lab][9l]]        |
 | 27/04     | **Quiz 1**  |                             | Social Network Mining                                         |
 | 04/05     | -           | From Documents to Knowledge | Semantic Web                                                  |
 | 11/05     | -           |                             | Information Extraction                                        |
@@ -37,7 +37,7 @@ Starting from 16/03, all the lectures are recorded.
 [6p]:Lectures/week%206%20-%20Frequent%20Itemsets.pdf
 [7p]:Lectures/week%207%20-%20Clustering.pdf
 [8p]:Lectures/week%208%20-%20Classification.pdf
-[9p]:Lectures/week%209%20-%20Applied%20Classification.pdf
+[9p]:Lectures/week%209%20-%20Classification%20Methodology.pdf
 [10p]:Lectures/week%2010%20-%20Social%20Network%20Mining.pdf
 [11p]:Lectures/week%2011%20-%20Semantic%20Web.pdf
 [12p]:Lectures/week%2012%20-%20Information%20Extraction.pdf
@@ -59,10 +59,10 @@ Starting from 16/03, all the lectures are recorded.
 [13l]:Exercises/12.Taxonomy_Induction
 [14l]:Exercises/13.Knowledge_Inference
 
-[5v]:https://epfl.zoom.us/rec/share/7_NOCe3frWBLbdL88Wzcfr8dBo_jX6a82nMZ_KAMyxnjqwIPxHGAh_C2wvab-vhy
-[6v]:https://epfl.zoom.us/rec/share/vfRVKvbv7zNLX6PpxmLUdYcZD6bpeaa8hHAf_fUNxBlsCe4ttQg_rQ7XP8lZAF2a
-[7v]:https://epfl.zoom.us/rec/share/6txnPrDPzjNIZKPxy3_aYvI7T57JT6a8gChIrKULnUfJMJz3h4x0qWl1vacJD2ZN 
-[8v]:https://epfl.zoom.us/rec/share/upUqHo7K7WxJT7fisxzyf4odLID3X6a8hnUbqaZezUoE3JKvJyvgubKdMfnG69FJ
+[5v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-03-16%20Word%20Embeddings%20and%20Link-based%20Ranking
+[6v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-03-23%20Link-Based%20Ranking%20and%20Association%20Rule%20Mining
+[7v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-03-30%20Association%20Rule%20Mining%20and%20Clustering
+[8v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-04-06%20Classification
 [9v]:TBD
 [10v]:TBD
 [11v]:TBD
