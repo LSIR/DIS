@@ -17,7 +17,7 @@
 | 30/03     | -           |                             | Clustering [[pdf][7p], [video][7v], [lab][7l]]                  |
 | 06/04     | -           |                             | Classification [[pdf][8p], [video][8v], [lab][8l]]              |
 | ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                                            |
-| 20/04     | -           |                             | Classification Methodology [[pdf][9p], [lab][9l]]        |
+| 20/04     | -           |                             | Classification Methodology [[pdf][9p], [video][9v], [lab][9l]]  |
 | 27/04     | **Quiz 1**  |                             | Social Network Mining                                         |
 | 04/05     | -           | From Documents to Knowledge | Semantic Web                                                  |
 | 11/05     | -           |                             | Information Extraction                                        |
@@ -63,7 +63,7 @@ Starting from 16/03, all the lectures are recorded.
 [6v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-03-23%20Link-Based%20Ranking%20and%20Association%20Rule%20Mining
 [7v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-03-30%20Association%20Rule%20Mining%20and%20Clustering
 [8v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-04-06%20Classification
-[9v]:TBD
+[9v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020_04_20%20Classification%20Methodology
 [10v]:TBD
 [11v]:TBD
 [12v]:TBD
