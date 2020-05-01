@@ -19,7 +19,7 @@
 | ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                                            |
 | 20/04     | -           |                             | Classification Methodology [[pdf][9p], [video][9v], [lab][9l]]  |
 | 27/04     | **Quiz 1**  |                             | Applied Classification [[pdf][10p], [video][10v], [lab][10l]]   |
-| 04/05     | -           | From Documents to Knowledge | Semantic Web                                                  |
+| 04/05     | -           | From Documents to Knowledge | Semantic Web [[pdf][11p], [lab][11l]]   |
 | 11/05     | -           |                             | Information Extraction                                        |
 | 18/05     | **Quiz 2**  |                             | Taxonomy Induction                                            |
 | 25/05     | -           |                             | Knowledge Inference                                           |
