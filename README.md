@@ -19,7 +19,7 @@
 | ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                                            |
 | 20/04     | -           |                             | Classification Methodology [[pdf][9p], [video][9v], [lab][9l]]  |
 | 27/04     | **Quiz 1**  |                             | Applied Classification [[pdf][10p], [video][10v], [lab][10l]]   |
-| 04/05     | -           | From Documents to Knowledge | Semantic Web [[pdf][11p], [lab][11l]]   |
+| 04/05     | -           | From Documents to Knowledge | Semantic Web [[pdf][11p], [video][11v], [lab][11l]]             |
 | 11/05     | -           |                             | Information Extraction  [[pdf][12p], [lab][12l]]   |
 | 18/05     | **Quiz 2**  |                             | Taxonomy Induction                                            |
 | 25/05     | -           |                             | Knowledge Inference                                           |
@@ -65,7 +65,7 @@ Starting from 16/03, all the lectures are recorded.
 [8v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-04-06%20Classification
 [9v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020_04_20%20Classification%20Methodology
 [10v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020_04_27%20Applied%20Classification
-[11v]:TBD
+[11v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020_05_04_%20Semantic%20Web
 [12v]:TBD
 [13v]:TBD
 [14v]:TBD
