@@ -2,7 +2,7 @@
 ###### Lecturer: ***[Karl Aberer](http://lsir.epfl.ch/aberer/)***, Teaching Assistants: [Chí Thắng Dương](https://people.epfl.ch/thang.duong), [Tuğrulcan Elmas](https://people.epfl.ch/tugrulcan.elmas), [Negar Foroutan Eghlidi](https://people.epfl.ch/negar.foroutan), [Jérémie Rappaz](https://people.epfl.ch/jeremie.rappaz) and [Panayiotis Smeros](https://people.epfl.ch/panayiotis.smeros)
 
 ## E-Class
-* Lecture Webinar (10.15am-12.00pm): https://epfl.zoom.us/j/97578697708
+* Lecture Webinar (10.15am-12.00pm): https://epfl.zoom.us/j/91241769703
 * Lab Meeting (12.15pm-13.00pm): https://epfl.zoom.us/j/935609541
 
 ## Schedule
