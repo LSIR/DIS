@@ -21,8 +21,8 @@
 | 27/04     | **Quiz 1**  |                             | Applied Classification [[pdf][10p], [video][10v], [lab][10l]]   |
 | 04/05     | -           | From Documents to Knowledge | Semantic Web [[pdf][11p], [video][11v], [lab][11l]]             |
 | 11/05     | -           |                             | Information Extraction [[pdf][12p], [video][12v], [lab][12l]]   |
-| 18/05     | **Quiz 2**  |                             | Taxonomy Induction [[pdf][12p], [lab][12l]] |
-| 25/05     | -           |                             | Knowledge Inference                                           |
+| 18/05     | **Quiz 2**  |                             | Taxonomy Induction [[pdf][13p], [video][13v], [lab][13l]]       |
+| 25/05     | -           |                             | Knowledge Inference  [[pdf][14p], [lab][14l]]   |
 
 All the lecture slides have embedded notes and are provided both in ppt and in pdf format. 
 All the lab exercises are accompanied by their solutions.
@@ -67,7 +67,7 @@ Starting from 16/03, all the lectures are recorded.
 [10v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020_04_27%20Applied%20Classification
 [11v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020_05_04_%20Semantic%20Web
 [12v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020_05_11%20Information%20Extraction
-[13v]:TBD
+[13v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-05-18%20Taxonomy%20Induction
 [14v]:TBD
 
 ## Exam
