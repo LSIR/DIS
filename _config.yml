@@ -1,2 +1,6 @@
-theme: jekyll-theme-tactile
-classes: wide
+title: CS-423 Distributed Information Systems
+author: Panayiotis Smeros
+description: Copyright ® LSIR (2020)
+header_pages: 
+  - 
+theme: minima

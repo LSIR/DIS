@@ -1,13 +1,13 @@
-# Distributed Information Systems
+ This course introduces the key concepts and algorithms from the areas of information retrieval, data mining and knowledge bases, which constitute the foundations of today's web-based distributed information systems. 
 
 ## E-Class
 
-| Platform | URL | Description  |
-|:---------:|:-----------:|:-----------:|
-Zoom Webinar | https://epfl.zoom.us/j/96988744528 | **Mondays [13:15-15:00]**: Online Lecture, QnA, In-Lecture Quizzes |
-Discord | https://discord.gg/rQ7cen3 |  **Mondays [15:15-16:00]**: Exercise Session, Main Communication |
-SwitchTube | https://tube.switch.ch/channels/45c71cb4 | Recorded Lectures |
-Moodle | https://moodle.epfl.ch/user/view.php?course=4051 | Mock Midterm, Mock Quizzes, Final Exam
+| Platform | Description  |
+|:---------|:-----------|
+Zoom | **Mondays [13:15-15:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/96988744528)] |
+Discord |  **Mondays [15:15-16:00]**: Exercise Session, Communication Hub [[link](https://discord.gg/rQ7cen3)] |
+SwitchTube | Recorded Lectures [[link](https://tube.switch.ch/channels/45c71cb4)]|
+Moodle | Mock Midterm, Mock Quizzes, Final Exam [[link](https://moodle.epfl.ch/user/view.php?course=4051)]
 
 
 
@@ -16,28 +16,59 @@ Moodle | https://moodle.epfl.ch/user/view.php?course=4051 | Mock Midterm, Mock Q
 
 | Date      | Exam        | Area                        | Material                                                        |
 |:---------:|:-----------:|:----------------------------|:----------------------------------------------------------------|
-| 17/02     | -           | Introduction                | Course Information - Overview [[pdf][0p], [pdf][1p], [lab][1l]] |
-| 24/02     | -           | Information Retrieval       | Information Retrieval Basics [[pdf][2p], [lab][2l]]             |
-| 02/03     | -           |                             | Information Retrieval Indexing [[pdf][3p], [lab][3l]]           |
-| 09/03     | -           |                             | Advanced Retrieval Methods [[pdf][4p], [lab][4l]]               |
-| 16/03     | **Midterm** |                             | Link-Based Ranking [[pdf][5p], [video][5v], [lab][5l]]          |
-| 23/03     | -           | Data Mining                 | Frequent Itemsets [[pdf][6p], [video][6v], [lab][6l]]           |
-| 30/03     | -           |                             | Clustering [[pdf][7p], [video][7v], [lab][7l]]                  |
-| 06/04     | -           |                             | Classification [[pdf][8p], [video][8v], [lab][8l]]              |
-| ~~13/04~~ | ~~~~        | ~~~~                        | ~~~~                                                            |
-| 20/04     | -           |                             | Classification Methodology [[pdf][9p], [video][9v], [lab][9l]]  |
-| 27/04     | **Quiz 1**  |                             | Applied Classification [[pdf][10p], [video][10v], [lab][10l]]   |
-| 04/05     | -           | From Documents to Knowledge | Semantic Web [[pdf][11p], [video][11v], [lab][11l]]             |
-| 11/05     | -           |                             | Information Extraction [[pdf][12p], [video][12v], [lab][12l]]   |
-| 18/05     | **Quiz 2**  |                             | Taxonomy Induction [[pdf][13p], [video][13v], [lab][13l]]       |
-| 25/05     | -           |                             | Knowledge Inference  [[pdf][14p], [lab][14l]]   |
-
-All the lecture slides have embedded notes and are provided both in ppt and in pdf format. 
-All the lab exercises are accompanied by their solutions.
-Starting from 16/03, all the lectures are recorded.
+| 14/09     | -           | Introduction                | Course Information - Overview |
+| ~~21/09~~ | ~~~~        | ~~~~                        | ~~~~                                                            |
+| 28/09     | -           | Information Retrieval       | Information Retrieval Basics |
+| 05/10     | -           |                             | Information Retrieval Indexing |
+| 12/10     | **Midterm** |                             | Advanced Retrieval Methods |
+| 19/10     | -           |                             | Link-Based Ranking |
+| 26/10     | -           | Data Mining                 | Frequent Itemsets |
+| 02/11     | -           |                             | Clustering |
+| 09/11     | **Quiz 1**  |                             | Classification |
+| 16/11     | -           |                             | Classification Methodology |
+| 23/11     | -           |                             | Applied Classification |
+| 30/11     | -           | From Documents to Knowledge | Semantic Web |
+| 07/12     | -           |                             | Information Extraction |
+| 14/12     | **Quiz 2**  |                             | Taxonomy Induction |
+| 21/12     | -           |                             | Knowledge Inference |
 
 
-###### Lecturer: ***[Karl Aberer](http://lsir.epfl.ch/aberer/)***, Teaching Assistants: [Chí Thắng Dương](https://people.epfl.ch/thang.duong), [Tuğrulcan Elmas](https://people.epfl.ch/tugrulcan.elmas), [Negar Foroutan Eghlidi](https://people.epfl.ch/negar.foroutan), [Jérémie Rappaz](https://people.epfl.ch/jeremie.rappaz) and [Panayiotis Smeros](https://people.epfl.ch/panayiotis.smeros)
+## Continuous Evaluation & Exam
+
+
+We will offer one programming midterm and two quizzes, which will be similar to questions you will find in the final exam. These intermediate exams **will not be graded**.
+
+Only the final exam will be graded. It will consist of multiple-choice questions, one theoretical question, and one programming task. Throughout the semester you will have examples of such questions and tasks in the weekly exercises. We also provide mock exams and quizzes from previous years:
+[2019 Poll Answers](Extras/2019-Polls), [2019 Midterm Exam](Extras/2019-Midterm), [2018 Quizzes](Extras/2018-Quizzes), [2018 Final Exam](Extras/2018-Final).
+
+
+The exam will be performed online on your laptop, with Internet access. **No communication using messaging, social media, email, or similar tools is allowed**. You can use your notes or any materials from the lecture during the exam.
+
+It is **strongly recommended** to do the exercises, as the final exam will be similar to those.
+
+**Absence**: You have to submit a doctor’s attest if you miss the final exam due to sickness. No other reasons for not taking the final exam will be accepted. 
+
+**Irregular behaviour**: In case of irregular behaviour during the final exam EPFL’s standard policies apply.
+
+
+## Communication Guidelines
+
+**Discord Q&A**: Questions to TAs should be asked **only** in the dedicated per-topic channels. TAs will be available in the voice channel **only** during the exercise sessions. You can also send private messages, but this should be done only for questions that aren’t of general interest; otherwise, you **must** use public channels. Important **announcements** will be pinned on the **general** channel. TAs won’t provide answers via **email**.
+
+**Best Practices**: Please join the Discord server with your **academic email**. Before posting a question, it is important to check if it has **already** been answered in any of the group channels. Avoid using **@everyone** and **@here**; this will trigger a notification being sent to all the students and TAs. Set your **full name** as your nickname. Please keep the communication **respectful**.
+
+
+## Contacts
+
+**Lecturer**: [Karl Aberer](http://lsir.epfl.ch/aberer).
+You can contact me anytime by email. If necessary, I will schedule a Zoom meeting to clarify critical questions.
+
+**Teaching assistants**: [Chí Thắng Dương](https://people.epfl.ch/thang.duong), [Tuğrulcan Elmas](https://people.epfl.ch/tugrulcan.elmas), [Jérémie Rappaz](https://people.epfl.ch/jeremie.rappaz) and [Panayiotis Smeros](https://people.epfl.ch/panayiotis.smeros).
+Please contact us for any organisational questions or questions related to the course content.
+
+## Disclaimer
+
+Given the unusual situation this semester we might see the need to modify the organisation of the course throughout the semester to adapt to the needs. Please follow carefully the announcements that are provided on Discord/Moodle.
 
 
 [0p]:Lectures/week%201%20-%20Course%20Information%202020.pdf
@@ -82,11 +113,7 @@ Starting from 16/03, all the lectures are recorded.
 [13v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-05-18%20Taxonomy%20Induction
 [14v]:TBD
 
-## Exam
-TBD
 
 
-## Extras
-For announcements and class discussions you may subscribe to the [Moodle fora](https://moodle.epfl.ch/course/view.php?id=4051).
 
-Previous Years: [2019 Poll Answers](Extras/2019-Polls), [2019 Midterm Exam](Extras/2019-Midterm), [2018 Quizzes](Extras/2018-Quizzes), [2018 Final Exam](Extras/2018-Final).
+
