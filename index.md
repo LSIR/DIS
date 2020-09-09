@@ -1,11 +1,18 @@
-###### Lecturer: ***[Karl Aberer](http://lsir.epfl.ch/aberer/)***, Teaching Assistants: [Chí Thắng Dương](https://people.epfl.ch/thang.duong), [Tuğrulcan Elmas](https://people.epfl.ch/tugrulcan.elmas), [Negar Foroutan Eghlidi](https://people.epfl.ch/negar.foroutan), [Jérémie Rappaz](https://people.epfl.ch/jeremie.rappaz) and [Panayiotis Smeros](https://people.epfl.ch/panayiotis.smeros)
+# Distributed Information Systems
 
-# E-Class
+## E-Class
 
-* Lecture Webinar (10.15am-12.00pm): https://epfl.zoom.us/j/91114006460
-* Lab Meeting (12.15pm-13.00pm): https://epfl.zoom.us/j/935609541
+| Platform | URL | Description  |
+|:---------:|:-----------:|:-----------:|
+Zoom Webinar | https://epfl.zoom.us/j/96988744528 | **Mondays [13:15-15:00]**: Online Lecture, QnA, In-Lecture Quizzes |
+Discord | https://discord.gg/rQ7cen3 |  **Mondays [15:15-16:00]**: Exercise Session, Main Communication |
+SwitchTube | https://tube.switch.ch/channels/45c71cb4 | Recorded Lectures |
+Moodle | https://moodle.epfl.ch/user/view.php?course=4051 | Mock Midterm, Mock Quizzes, Final Exam
 
-# Schedule
+
+
+## Schedule
+
 
 | Date      | Exam        | Area                        | Material                                                        |
 |:---------:|:-----------:|:----------------------------|:----------------------------------------------------------------|
@@ -28,6 +35,10 @@
 All the lecture slides have embedded notes and are provided both in ppt and in pdf format. 
 All the lab exercises are accompanied by their solutions.
 Starting from 16/03, all the lectures are recorded.
+
+
+###### Lecturer: ***[Karl Aberer](http://lsir.epfl.ch/aberer/)***, Teaching Assistants: [Chí Thắng Dương](https://people.epfl.ch/thang.duong), [Tuğrulcan Elmas](https://people.epfl.ch/tugrulcan.elmas), [Negar Foroutan Eghlidi](https://people.epfl.ch/negar.foroutan), [Jérémie Rappaz](https://people.epfl.ch/jeremie.rappaz) and [Panayiotis Smeros](https://people.epfl.ch/panayiotis.smeros)
+
 
 [0p]:Lectures/week%201%20-%20Course%20Information%202020.pdf
 [1p]:Lectures/week%201%20-%20Overview%20DIS.pdf
@@ -71,11 +82,11 @@ Starting from 16/03, all the lectures are recorded.
 [13v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-05-18%20Taxonomy%20Induction
 [14v]:TBD
 
-# Exam
+## Exam
 TBD
 
 
-# Extras
+## Extras
 For announcements and class discussions you may subscribe to the [Moodle fora](https://moodle.epfl.ch/course/view.php?id=4051).
 
 Previous Years: [2019 Poll Answers](Extras/2019-Polls), [2019 Midterm Exam](Extras/2019-Midterm), [2018 Quizzes](Extras/2018-Quizzes), [2018 Final Exam](Extras/2018-Final).
