@@ -13,28 +13,25 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam [[link](https://moodle.epfl.ch/u
 
 ## Schedule
 
-
 | Date      | Exam        | Area                        | Material                                                        |
 |:---------:|:-----------:|:----------------------------|:----------------------------------------------------------------|
 | 14/09     | -           | Introduction                | Course Information - Overview |
 | ~~21/09~~ | ~~~~        | ~~~~                        | ~~~~                                                            |
-| 28/09     | -           | Information Retrieval       | Information Retrieval Basics |
-| 05/10     | -           |                             | Information Retrieval Indexing |
+| 28/09     | -           | Information Retrieval       | Basic Text Retrieval Models |
+| 05/10     | -           |                             | Indexing and Probabilistic Retrieval |
 | 12/10     | **Midterm** |                             | Advanced Retrieval Methods |
-| 19/10     | -           |                             | Link-Based Ranking |
-| 26/10     | -           | Data Mining                 | Frequent Itemsets |
-| 02/11     | -           |                             | Clustering |
-| 09/11     | **Quiz 1**  |                             | Classification |
-| 16/11     | -           |                             | Classification Methodology |
-| 23/11     | -           |                             | Applied Classification |
+| 19/10     | -           |                             | Relevance Feedback and Link-based Retrieval |
+| 26/10     | -           | Data Mining                 | Frequent Itemsets Mining |
+| 02/11     | -           |                             | Clustering and Classification |
+| 09/11     | **Quiz 1**  |                             | Classification Methodology |
+| 16/11     | -           |                             | Document Classification and Recommender |
+| 23/11     | -           |                             | Social Network Mining |
 | 30/11     | -           | From Documents to Knowledge | Semantic Web |
-| 07/12     | -           |                             | Information Extraction |
-| 14/12     | **Quiz 2**  |                             | Taxonomy Induction |
-| 21/12     | -           |                             | Knowledge Inference |
+| 07/12     | **Quiz 2**  |                             | Entity and Information Extraction |
+| 14/12     | -           |                             | Data Integration and Knowledge Graphs |
 
 
 ## Continuous Evaluation & Exam
-
 
 We will offer one programming midterm and two quizzes, which will be similar to questions you will find in the final exam. These intermediate exams **will not be graded**.
 
@@ -112,8 +109,5 @@ Given the unusual situation this semester we might see the need to modify the or
 [12v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020_05_11%20Information%20Extraction
 [13v]:https://drive.switch.ch/index.php/s/BCsXlHIAB8cMBsf?path=%2F2020-05-18%20Taxonomy%20Induction
 [14v]:TBD
-
-
-
 
 
