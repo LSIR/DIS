@@ -36,7 +36,7 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam [[link](https://moodle.epfl.ch/u
 We will offer one programming midterm and two quizzes, which will be similar to questions you will find in the final exam. These intermediate exams **will not be graded**.
 
 Only the final exam will be graded. It will consist of multiple-choice questions, one theoretical question, and one programming task. Throughout the semester you will have examples of such questions and tasks in the weekly exercises. We also provide mock exams and quizzes from previous years:
-[2019 Poll Answers](Extras/2019-Polls), [2019 Midterm Exam](Extras/2019-Midterm), [2018 Quizzes](Extras/2018-Quizzes), [2018 Final Exam](Extras/2018-Final).
+[2019 Poll Answers](https://github.com/LSIR/DIS/blob/master/Extras/2019-Polls), [2019 Midterm Exam](https://github.com/LSIR/DIS/blob/master/Extras/2019-Midterm), [2018 Quizzes](https://github.com/LSIR/DIS/blob/master/Extras/2018-Quizzes), [2018 Final Exam](https://github.com/LSIR/DIS/blob/master/Extras/2018-Final).
 
 
 The exam will be performed online on your laptop, with Internet access. **No communication using messaging, social media, email, or similar tools is allowed**. You can use your notes or any materials from the lecture during the exam.
