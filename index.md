@@ -4,7 +4,7 @@
 
 | Platform | Description  |
 |:---------|:-----------|
-Zoom | **Mondays [13:15-15:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/96988744528)] |
+Zoom | **Mondays [13:15-15:00]**: Live Webinar, QnA, In-Lecture Quizzes [[lecture](https://epfl.zoom.us/j/96988744528), [lab](https://epfl.zoom.us/j/87286440833)] |
 Discord |  **Mondays [15:15-16:00]**: Exercise Session, Communication Hub [[link](https://discord.gg/rQ7cen3)] |
 SwitchTube | Recorded Lectures [[link](https://tube.switch.ch/channels/45c71cb4)]|
 Moodle | Mock Midterm, Mock Quizzes, Final Exam [[link](https://moodle.epfl.ch/user/view.php?course=4051)]
