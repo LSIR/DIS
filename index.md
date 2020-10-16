@@ -13,14 +13,14 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam [[link](https://moodle.epfl.ch/u
 
 ## Schedule
 
-| Date      | Exam        | Area                        | Material                                                        |
-|:---------:|:-----------:|:----------------------------|:----------------------------------------------------------------|
-| 14/09     | -           | Introduction                | Course Information - Overview [[slides][1p], [lab][1l]]         |
-| ~~21/09~~ | ~~~~        | ~~~~                        | ~~~~                                                            |
-| 28/09     | -           | Information Retrieval       | Basic Text Retrieval Models [[slides][2p], [lab][2l]]           |
-| 05/10     | -           |                             | Indexing and Relevance Feedback [[slides][3p], [lab][3l]]       |
-| 12/10     | -           |                             | Advanced Retrieval Methods [[slides][4p], [lab][4l]]            |
-| 19/10     | **Midterm** |                             | Word Embeddings and Link-based Retrieval <!--[[slides][5p], [lab][5l]]--> |
+| Date      | Exam        | Area                        | Material                                                           |
+|:---------:|:-----------:|:----------------------------|:-------------------------------------------------------------------|
+| 14/09     | -           | Introduction                | Course Information - Overview [[slides][1p], [lab][1l]]            |
+| ~~21/09~~ | ~~~~        | ~~~~                        | ~~~~                                                               |
+| 28/09     | -           | Information Retrieval       | Basic Text Retrieval Models [[slides][2p], [lab][2l]]              |
+| 05/10     | -           |                             | Indexing and Relevance Feedback [[slides][3p], [lab][3l]]          |
+| 12/10     | -           |                             | Advanced Retrieval Methods [[slides][4p], [lab][4l]]               |
+| 19/10     | **Midterm** |                             | Word Embeddings and Link-based Retrieval [[slides][5p], [lab][5l]] |
 | 26/10     | -           | Data Mining                 | Frequent Itemsets Mining <!--[[slides][6p], [lab][6l]]--> |
 | 02/11     | -           |                             | Clustering and Classification <!--[[slides][7p], [lab][7l]]--> |
 | 09/11     | **Quiz 1**  |                             | Classification Methodology <!--[[slides][8p], [lab][8l]]--> |
