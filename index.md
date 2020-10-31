@@ -22,7 +22,7 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam [[link](https://moodle.epfl.ch/u
 | 12/10     | -           |                             | Advanced Retrieval Methods [[slides][4p], [lab][4l]]               |
 | 19/10     | **Midterm** |                             | Word Embeddings and Link-based Retrieval [[slides][5p], [lab][5l]] |
 | 26/10     | -           | Data Mining                 | Frequent Itemsets Mining [[slides][6p], [lab][6l]]                 |
-| 02/11     | -           |                             | Clustering and Classification <!--[[slides][7p], [lab][7l]]--> |
+| 02/11     | -           |                             | Clustering and Classification [[slides][7p], [lab][7l]]            |
 | 09/11     | **Quiz 1**  |                             | Classification Methodology <!--[[slides][8p], [lab][8l]]--> |
 | 16/11     | -           |                             | Document Classification and Recommender <!--[[slides][9p], [lab][9l]]--> |
 | 23/11     | -           |                             | Social Network Mining <!--[[slides][10p], [lab][10l]]--> |
