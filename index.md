@@ -27,7 +27,7 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam [[link](https://moodle.epfl.ch/u
 | 16/11     | -           |                             |  Classification Methodology [[slides][9p], [lab][9l]]              |
 | 23/11     | -           |                             | Applied Classification [[slides][10p], [lab][10l]]                 |
 | 30/11     | -           | From Documents to Knowledge | Semantic Web [[slides][11p], [lab][11l]]                           |
-| 07/12     | **Quiz 2**  |                             | Entity and Information Extraction <!--[[slides][12p], [lab][12l]]--> |
+| 07/12     | **Quiz 2**  |                             | Entity and Information Extraction [[slides][12p], [lab][12l]]      |
 | 14/12     | -           |                             | Data Integration and Knowledge Graphs <!--[[slides][13p], [lab][13l]]--> |
 
 
