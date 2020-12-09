@@ -1,5 +1,19 @@
  This course introduces the key concepts and algorithms from the areas of information retrieval, data mining and knowledge bases, which constitute the foundations of today's web-based distributed information systems. 
 
+## Exam (11/01/2021 from 08:15 to 11:15 at [AAC231](https://plan.epfl.ch/?room==AAC%202%2031), [SG1](https://plan.epfl.ch/?room==SG%201138))
+
+The exam will be performed online on your laptop, with Internet access. **No communication using messaging, social media, email, or similar tools is allowed**. You can use your notes or any materials from the lecture during the exam.
+
+It is **strongly recommended** to do the exercises, as the final exam will be similar to those.
+
+**Absence**: You have to submit a doctor’s attest if you miss the final exam due to sickness. No other reasons for not taking the final exam will be accepted. 
+
+**Irregular behaviour**: In case of irregular behaviour during the final exam EPFL’s standard policies apply.
+
+
+
+
+
 ## E-Class
 
 | Platform | Description  |
@@ -31,20 +45,11 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam [[link](https://moodle.epfl.ch/u
 | 14/12     | -           |                             | Data Integration and Knowledge Graphs <!--[[slides][13p], [lab][13l]]--> |
 
 
-## Continuous Evaluation & Exam
+## Continuous Evaluation
 
 We will offer one programming midterm and two quizzes, which will be similar to questions you will find in the final exam. These intermediate exams **will not be graded**.
 
 Only the final exam will be graded. It will consist of multiple-choice questions, one theoretical question, and one programming task. Throughout the semester you will have examples of such questions and tasks in the weekly exercises. We also provide mock exams and quizzes from previous years: [2019 Midterm Exam](https://github.com/LSIR/DIS/blob/master/Extras/2019-Midterm), [2018 Quizzes](https://github.com/LSIR/DIS/blob/master/Extras/2018-Quizzes), [2018 Final Exam](https://github.com/LSIR/DIS/blob/master/Extras/2018-Final).
-
-
-The exam will be performed online on your laptop, with Internet access. **No communication using messaging, social media, email, or similar tools is allowed**. You can use your notes or any materials from the lecture during the exam.
-
-It is **strongly recommended** to do the exercises, as the final exam will be similar to those.
-
-**Absence**: You have to submit a doctor’s attest if you miss the final exam due to sickness. No other reasons for not taking the final exam will be accepted. 
-
-**Irregular behaviour**: In case of irregular behaviour during the final exam EPFL’s standard policies apply.
 
 
 ## Communication Guidelines
