@@ -1,6 +1,7 @@
- This course introduces the key concepts and algorithms from the areas of information retrieval, data mining and knowledge bases, which constitute the foundations of today's web-based distributed information systems. 
+ 
+This course introduces the key concepts and algorithms from the areas of information retrieval, data mining and knowledge bases, which constitute the foundations of today's web-based distributed information systems. 
 
-## Exam (11/01/2021 from 08:15 to 11:15 at [AAC231](https://plan.epfl.ch/?room==AAC%202%2031), [SG1](https://plan.epfl.ch/?room==SG%201138))
+<!-- ## Exam (11/01/2021 from 08:15 to 11:15 at [AAC231](https://plan.epfl.ch/?room==AAC%202%2031), [SG1](https://plan.epfl.ch/?room==SG%201138)) -->
 
 The exam will be performed online on your laptop, with Internet access. **No communication using messaging, social media, email, or similar tools is allowed**. You can use your notes or any materials from the lecture during the exam.
 
@@ -18,10 +19,11 @@ It is **strongly recommended** to do the exercises, as the final exam will be si
 
 | Platform | Description  |
 |:---------|:-----------|
-Zoom | **Mondays [13:15-15:00]**: Live Webinar, QnA, In-Lecture Quizzes [[lecture](https://epfl.zoom.us/j/96988744528), [lab](https://epfl.zoom.us/j/87286440833)] |
-Discord |  **Mondays [15:15-16:00]**: Exercise Session, Communication Hub [[link](https://discord.gg/rQ7cen3)] |
-SwitchTube | Recorded Lectures [[link](https://tube.switch.ch/channels/45c71cb4)]|
-Moodle | Mock Midterm, Mock Quizzes, Final Exam [[link](https://moodle.epfl.ch/user/view.php?course=4051)]
+Zoom | **Mondays [13:15-15:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/65956515720)] |
+Zoom |  **Mondays [15:15-16:00]**: Live Exercise Session, Communication Hub [[link](https://epfl.zoom.us/j/69435562992)] |
+SwitchTube | Recorded Lectures [[link](https://tube.switch.ch/channels/zireVjctlC)] |
+Piazza	| QnA [[link](https://piazza.com/epfl.ch/fall2021/cs423)] | 
+Moodle | Mock Midterm, Mock Quizzes, Final Exam | <!-- [[link](https://moodle.epfl.ch/user/view.php?course=4051)] -->
 
 
 
@@ -29,20 +31,20 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam [[link](https://moodle.epfl.ch/u
 
 | Date      | Exam        | Area                        | Material                                                           |
 |:---------:|:-----------:|:----------------------------|:-------------------------------------------------------------------|
-| 14/09     | -           | Introduction                | Course Information - Overview [[slides][1p], [lab][1l]]            |
-| ~~21/09~~ | ~~~~        | ~~~~                        | ~~~~                                                               |
-| 28/09     | -           | Information Retrieval       | Basic Text Retrieval Models [[slides][2p], [lab][2l]]              |
-| 05/10     | -           |                             | Indexing and Relevance Feedback [[slides][3p], [lab][3l]]          |
-| 12/10     | -           |                             | Advanced Retrieval Methods [[slides][4p], [lab][4l]]               |
-| 19/10     | **Midterm** |                             | Word Embeddings and Link-based Retrieval [[slides][5p], [lab][5l]] |
-| 26/10     | -           | Data Mining                 | Frequent Itemsets Mining [[slides][6p], [lab][6l]]                 |
-| 02/11     | -           |                             | Clustering [[slides][7p], [lab][7l]]                               |
-| 09/11     | **Quiz 1**  |                             | Classification [[slides][8p], [lab][8l]]                           |
-| 16/11     | -           |                             |  Classification Methodology [[slides][9p], [lab][9l]]              |
-| 23/11     | -           |                             | Applied Classification [[slides][10p], [lab][10l]]                 |
-| 30/11     | -           | From Documents to Knowledge | Semantic Web [[slides][11p], [lab][11l]]                           |
-| 07/12     | **Quiz 2**  |                             | Entity and Information Extraction [[slides][12p], [lab][12l]]      |
-| 14/12     | -           |                             | Data Integration and Knowledge Graphs [[slides][13p], [lab][13l]]  |
+| ~~20/09~~ | ~~~~        | ~~~~                        | ~~~~                                                               |
+| 27/09     | -           | Introduction                | Course Information - Overview [[slides][1p], [lab][1l]]            |
+| 04/10     | -           | Information Retrieval       | Basic Text Retrieval Models <!-- [[slides][2p], [lab][2l]]  -->             |
+| 11/10     | -           |                             | Probabilistic Retrieval and Relevance Feedback <!-- [[slides][3p], [lab][3l]]  -->|
+| 18/10     | **Midterm** |                             | Indexing and Distributed retrieval <!-- [[slides][4p], [lab][4l]]   -->|
+| 25/10     | -           |                             | Word Embeddings <!-- [[slides][5p], [lab][5l]] --> |
+| 01/11     | -           |                             | Link-based Ranking <!-- [[slides][5p], [lab][5l]] --> |
+| 08/11     | -           | Data Mining                 | Graph Mining <!-- [[slides][6p], [lab][6l]]   -->               |
+| 15/11     | **Quiz 1**  |                             | Document Classification<!--  [[slides][7p], [lab][7l]]    --> |
+| 22/11     | -           |                             | Recommender Systems <!-- [[slides][8p], [lab][8l]]  -->                          |
+| 29/11     | -           |                             | Association Rules <!-- [[slides][9p], [lab][9l]]   -->            |
+| 06/12     | -           | From Documents to Knowledge | Semantic Web <!-- [[slides][10p], [lab][10l]]  -->                |
+| 13/12     | **Quiz 2**  |                             | Entity and Information Extraction <!-- [[slides][11p], [lab][11l]]   --> |
+| 20/12     | -           |                             | Inference for Knowledge Graphs <!-- [[slides][12p], [lab][12l]]     -->  |
 
 
 ## Continuous Evaluation
@@ -54,9 +56,9 @@ Only the final exam will be graded. It will consist of multiple-choice questions
 
 ## Communication Guidelines
 
-**Discord Q&A**: Questions to TAs should be asked **only** in the dedicated per-topic channels. TAs will be available in the voice channel **only** during the exercise sessions. You can also send private messages, but this should be done only for questions that aren’t of general interest; otherwise, you **must** use public channels. Important **announcements** will be pinned on the **general** channel. TAs won’t provide answers via **email**.
+**Q&A**: Questions to TAs should be asked **only** in the dedicated per-topic folders in the Piazza forum. TAs will be available in the zoom session **only** during the exercise sessions. <!-- You can also send private messages, but this should be done only for questions that aren’t of general interest; otherwise, you **must** use public channels. --> <!-- Important **announcements** will be pinned on the **general** channel. --> TAs won’t provide answers via **email**.
 
-**Best Practices**: Please join the Discord server with your **academic email**. Before posting a question, it is important to check if it has **already** been answered in any of the group channels. Avoid using **@everyone** and **@here**; this will trigger a notification being sent to all the students and TAs. Set your **full name** as your nickname. Please keep the communication **respectful**.
+**Best Practices**: Please join the Piazza forum with your **academic email**. Before posting a question, it is important to check if it has **already** been answered<!--  in any of the group channels -->. <!-- Avoid using **@everyone** and **@here**; this will trigger a notification being sent to all the students and TAs. --> Set your **full name** as your nickname. Please keep the communication **respectful**.
 
 
 ## Contacts
@@ -64,12 +66,12 @@ Only the final exam will be graded. It will consist of multiple-choice questions
 **Lecturer**: [Karl Aberer](http://lsir.epfl.ch/aberer).
 You can contact me anytime by email. If necessary, I will schedule a Zoom meeting to clarify critical questions.
 
-**Teaching assistants**: [Chí Thắng Dương](https://people.epfl.ch/thang.duong), [Tuğrulcan Elmas](https://people.epfl.ch/tugrulcan.elmas), [Jérémie Rappaz](https://people.epfl.ch/jeremie.rappaz) and [Panayiotis Smeros](https://people.epfl.ch/panayiotis.smeros).
+**Teaching assistants**: [Angelika Romanou](https://people.epfl.ch/angelika.romanou), [Tuğrulcan Elmas](https://people.epfl.ch/tugrulcan.elmas), [Sadegh Farhadkhani](https://people.epfl.ch/sadegh.farhadkhani) and [Ehsan Mokhtarian](https://people.epfl.ch/ehsan.mokhtarian).
 Please contact us for any organisational questions or questions related to the course content.
 
 ## Disclaimer
 
-Given the unusual situation this semester we might see the need to modify the organisation of the course throughout the semester to adapt to the needs. Please follow carefully the announcements that are provided on Discord/Moodle.
+Given the unusual situation this semester we might see the need to modify the organisation of the course throughout the semester to adapt to the needs. Please follow carefully the announcements that are provided on Moodle/Piazza.
 
 
 [1p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%201
