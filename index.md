@@ -34,7 +34,7 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam | <!-- [[link](https://moodle.ep
 | ~~20/09~~ | ~~~~        | ~~~~                        | ~~~~                                                               |
 | 27/09     | -           | Introduction                | Course Information - Overview [[slides][1p], [lab][1l]] |
 | 04/10     | -           | Information Retrieval       | Basic Text Retrieval Models [[slides][2p], [lab][2l]] |
-| 11/10     | -           |                             | Probabilistic Retrieval and Relevance Feedback <!-- [[slides][3p], [lab][3l]]  -->|
+| 11/10     | -           |                             | Probabilistic Retrieval and Relevance Feedback [[slides][3p], [lab][3l]] |
 | 18/10     | **Midterm** |                             | Indexing and Distributed retrieval <!-- [[slides][4p], [lab][4l]]   -->|
 | 25/10     | -           |                             | Word Embeddings <!-- [[slides][5p], [lab][5l]] --> |
 | 01/11     | -           |                             | Link-based Ranking <!-- [[slides][5p], [lab][5l]] --> |
