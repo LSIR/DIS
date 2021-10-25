@@ -1,6 +1,8 @@
  
 This course introduces the key concepts and algorithms from the areas of information retrieval, data mining and knowledge bases, which constitute the foundations of today's web-based distributed information systems. 
 
+### Exam: 24/01/2022 from 16:15 to 19:15
+
 <!-- ## Exam (11/01/2021 from 08:15 to 11:15 at [AAC231](https://plan.epfl.ch/?room==AAC%202%2031), [SG1](https://plan.epfl.ch/?room==SG%201138)) -->
 
 The exam will be performed online on your laptop, with Internet access. **No communication using messaging, social media, email, or similar tools is allowed**. You can use your notes or any materials from the lecture during the exam.
