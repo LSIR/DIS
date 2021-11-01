@@ -1,6 +1,8 @@
  
 This course introduces the key concepts and algorithms from the areas of information retrieval, data mining and knowledge bases, which constitute the foundations of today's web-based distributed information systems. 
 
+### Exam: 24/01/2022 from 16:15 to 19:15
+
 <!-- ## Exam (11/01/2021 from 08:15 to 11:15 at [AAC231](https://plan.epfl.ch/?room==AAC%202%2031), [SG1](https://plan.epfl.ch/?room==SG%201138)) -->
 
 The exam will be performed online on your laptop, with Internet access. **No communication using messaging, social media, email, or similar tools is allowed**. You can use your notes or any materials from the lecture during the exam.
@@ -35,9 +37,9 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam | <!-- [[link](https://moodle.ep
 | 27/09     | -           | Introduction                | Course Information - Overview [[slides][1p], [lab][1l]] |
 | 04/10     | -           | Information Retrieval       | Basic Text Retrieval Models [[slides][2p], [lab][2l]] |
 | 11/10     | -           |                             | Probabilistic Retrieval and Relevance Feedback [[slides][3p], [lab][3l]] |
-| 18/10     | **Midterm** |                             | Indexing and Distributed retrieval <!-- [[slides][4p], [lab][4l]]   -->|
-| 25/10     | -           |                             | Word Embeddings <!-- [[slides][5p], [lab][5l]] --> |
-| 01/11     | -           |                             | Link-based Ranking <!-- [[slides][5p], [lab][5l]] --> |
+| 18/10     | -           |                             | Indexing and Distributed retrieval [[slides][4p], [lab][4l]]  |
+| 25/10     | -           |                             | Word Embeddings [[slides][5p], [lab][5l]] |
+| 01/11     | **Midterm** |                             | Link-based Ranking [[slides][6p], [lab][6l]] |
 | 08/11     | -           | Data Mining                 | Graph Mining <!-- [[slides][6p], [lab][6l]]   -->               |
 | 15/11     | **Quiz 1**  |                             | Document Classification<!--  [[slides][7p], [lab][7l]]    --> |
 | 22/11     | -           |                             | Recommender Systems <!-- [[slides][8p], [lab][8l]]  -->                          |
