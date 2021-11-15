@@ -41,7 +41,7 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam | <!-- [[link](https://moodle.ep
 | 25/10     | -           |                             | Word Embeddings [[slides][5p], [lab][5l]] |
 | 01/11     | **Midterm** |                             | Link-based Ranking [[slides][6p], [lab][6l]] |
 | 08/11     | -           | Data Mining                 | Graph Mining [[slides][7p], [lab][7l]] |
-| 15/11     | -           |                             | Document Classification<!--  [[slides][7p], [lab][7l]]    --> |
+| 15/11     | -           |                             | Document Classification [[slides][8p], [lab][8l]]    |
 | 22/11     | -           |                             | Recommender Systems <!-- [[slides][8p], [lab][8l]]  -->                          |
 | 29/11     | -           |                             | Association Rules <!-- [[slides][9p], [lab][9l]]   -->            |
 | 06/12     | -           | From Documents to Knowledge | Semantic Web <!-- [[slides][10p], [lab][10l]]  -->                |
