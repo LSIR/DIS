@@ -46,7 +46,7 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam | <!-- [[link](https://moodle.ep
 | 29/11     | -           |                             | Association Rules [[slides][10p], [lab][10l]]              |
 | 06/12     | -           | From Documents to Knowledge | Semantic Web [[slides][11p], [lab][11l]]                 |
 | 13/12     | **Quiz**  |                             | Entity and Information Extraction [[slides][12p], [lab][12l]]   |
-| 20/12     | -           |                             | Inference for Knowledge Graphs <!-- [[slides][12p], [lab][12l]]     -->  |
+| 20/12     | -           |                             | Inference for Knowledge Graphs [[slides][13p], [lab][13l]]      |
 
 
 ## Continuous Evaluation
