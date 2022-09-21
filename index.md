@@ -18,7 +18,7 @@ This course introduces the key concepts and algorithms from the areas of informa
 | Platform | Description  |
 |:---------|:-----------|
 Zoom | **Thursdays [10:15-12:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/96988744528)] |
-Zoom |  **Mondays [12:15-13:00]**: Live Exercise Session, Communication Hub |
+Zoom |  **Thursdays [12:15-13:00]**: Live Exercise Session, Communication Hub |
 SwitchTube | Recorded Lectures [[link](https://tube.switch.ch/channels/PH1KLlGUsX)] |
 Ed Forum | QnA [[link](https://edstem.org/eu/courses/90/discussion/)] | 
 Moodle | Mock Midterm, Mock Quizzes, Final Exam | [[link](http://moodle.epfl.ch/course/view.php?id=4051)]
@@ -40,9 +40,9 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam | [[link](http://moodle.epfl.ch/
 | 17/11     | -           |                             | Recommender Systems <!-- [[slides][9p], [lab][9l]] -->                           |
 | 24/11     | -           |                             | Association Rules <!-- [[slides][10p], [lab][10l]]   -->            |
 | 1/12      | -           | From Documents to Knowledge | Semantic Web <!-- [[slides][11p], [lab][11l]]  -->                |
-| 8/12      | **Quiz**    |                             | Entity and Information Extraction <!-- [[slides][12p], [lab][12l]]  -->  |
-| 15/12     | -           |                             | Inference for Knowledge Graphs <!-- [[slides][13p], [lab][13l]]  -->     |
-
+| 8/12      | -           |                             | Entity and Information Extraction <!-- [[slides][12p], [lab][12l]]  -->  |
+| 15/12     | **Quiz**    |                             | Inference for Knowledge Graphs <!-- [[slides][13p], [lab][13l]]  -->     |
+| 22/12     | -           | Review                      | Review      |
 
 ## Continuous Evaluation
 
@@ -65,10 +65,10 @@ You can contact me anytime by email. If necessary, I will schedule a Zoom meetin
 
 **Teaching assistants**: [Angelika Romanou](https://people.epfl.ch/angelika.romanou), [Negar Foroutan](https://people.epfl.ch/negar.foroutan?lang=en), [Mohammadreza Banaei](https://people.epfl.ch/mohammadreza.banaei?lang=en) and [Ehsan Mokhtarian](https://people.epfl.ch/ehsan.mokhtarian).
 Please contact us for any organisational questions or questions related to the course content.
-
+<!-- 
 ## Disclaimer
 
-Given the unusual situation this semester we might see the need to modify the organisation of the course throughout the semester to adapt to the needs. Please follow carefully the announcements that are provided on Moodle/Ed.
+Given the unusual situation this semester we might see the need to modify the organisation of the course throughout the semester to adapt to the needs. Please follow carefully the announcements that are provided on Moodle/Ed. -->
 
 
 [1p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%201
