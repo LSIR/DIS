@@ -17,7 +17,7 @@ This course introduces the key concepts and algorithms from the areas of informa
 
 | Platform | Description  |
 |:---------|:-----------|
-Zoom | **Thursdays [10:15-12:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/96988744528)] |
+Zoom | **Thursdays [10:15-12:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/66237387610)] |
 Zoom |  **Thursdays [12:15-13:00]**: Live Exercise Session, Communication Hub |
 SwitchTube | Recorded Lectures [[link](https://tube.switch.ch/channels/PH1KLlGUsX)] |
 Ed Forum | QnA [[link](https://edstem.org/eu/courses/90/discussion/)] | 
