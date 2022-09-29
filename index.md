@@ -18,7 +18,7 @@ This course introduces the key concepts and algorithms from the areas of informa
 | Platform | Description  |
 |:---------|:-----------|
 Zoom | **Thursdays [10:15-12:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/66237387610)] |
-Zoom |  **Thursdays [12:15-13:00]**: Live Exercise Session, Communication Hub |
+In-class |  **Thursdays [12:15-13:00]**: In-person Exercise Session |
 SwitchTube | Recorded Lectures [[link](https://tube.switch.ch/channels/PH1KLlGUsX)] |
 Ed Forum | QnA [[link](https://edstem.org/eu/courses/90/discussion/)] | 
 Moodle | Mock Midterm, Mock Quizzes, Final Exam | [[link](http://moodle.epfl.ch/course/view.php?id=4051)]
@@ -43,6 +43,12 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam | [[link](http://moodle.epfl.ch/
 | 8/12      | -           |                             | Entity and Information Extraction <!-- [[slides][12p], [lab][12l]]  -->  |
 | 15/12     | **Quiz**    |                             | Inference for Knowledge Graphs <!-- [[slides][13p], [lab][13l]]  -->     |
 | 22/12     | -           | Review                      | Review      |
+
+
+### Exercises Session format (In-person):
+- TAs will provide a small discussion over the **last week's exercise**, answering any questions and explaining the solutions. (first 10-15mins of the session)
+- Students will be solving **this week's exercises** and TAs will provide answers and clarification if needed.
+
 
 ## Continuous Evaluation
 
