@@ -13,11 +13,11 @@ This course introduces the key concepts and algorithms from the areas of informa
 
 
 
-## E-Class
+## Class
 
 | Platform | Description  |
 |:---------|:-----------|
-Zoom | **Thursdays [10:15-12:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/66237387610)] |
+In-class & Zoom | **Thursdays [10:15-12:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/66237387610)] |
 In-class |  **Thursdays [12:15-13:00]**: In-person Exercise Session |
 SwitchTube | Recorded Lectures [[link](https://tube.switch.ch/channels/PH1KLlGUsX)] |
 Ed Forum | QnA [[link](https://edstem.org/eu/courses/90/discussion/)] | 
@@ -46,9 +46,11 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam | [[link](http://moodle.epfl.ch/
 
 
 ### Exercises Session format (In-person):
-- TAs will provide a small discussion over the **last week's exercise**, answering any questions and explaining the solutions. (first 10-15mins of the session)
-- Students will be solving **this week's exercises** and TAs will provide answers and clarification if needed.
+- TAs will provide a small discussion over the **last week's exercises**, answering any questions and explaining the solutions. _(10-15mins)_
+- TAs will present **this week's exercise**. _(5mins)_ 
+- Students will be solving this week's exercises and TAs will provide answers and clarification if needed.
 
+_**Note**: Please make sure you have already done the setup prerequisites to run the coding parts of the exercises. You can find the instructions [here](https://github.com/LSIR/DIS/tree/master/Exercises/setup)._
 
 ## Continuous Evaluation
 
