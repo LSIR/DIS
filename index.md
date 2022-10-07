@@ -31,7 +31,7 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam | [[link](http://moodle.epfl.ch/
 |:---------:|:-----------:|:----------------------------|:-------------------------------------------------------------------|
 | 22/09     | -           | Introduction                | Course Information - Overview [[slides][1p]] |
 | 29/09     | -           | Information Retrieval       | Basic Text Retrieval Models [[slides][2p], [lab][2l]] |
-| 06/10     | -           |                             | Probabilistic Retrieval and Relevance Feedback <!-- [[slides][3p], [lab][3l]] --> |
+| 06/10     | -           |                             | Probabilistic Retrieval and Relevance Feedback [[slides][3p], [lab][3l]] |
 | 13/10     | -           |                             | Indexing and Distributed retrieval <!-- [[slides][4p], [lab][4l]] -->  |
 | 20/10     | -           |                             | Word Embeddings <!-- [[slides][5p], [lab][5l]] --> |
 | 27/10     | **Midterm** |                             | Link-based Ranking <!-- [[slides][6p], [lab][6l]] --> |
@@ -81,8 +81,8 @@ Given the unusual situation this semester we might see the need to modify the or
 
 [1p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%201
 [2p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%202
-<!-- [3p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%203
-[4p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%204
+[3p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%203
+<!-- [4p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%204
 [5p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%205
 [6p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%206
 [7p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%207
@@ -95,8 +95,8 @@ Given the unusual situation this semester we might see the need to modify the or
 
 <!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
 [2l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%202
-<!-- [3l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%203
-[4l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%204
+[3l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%203
+<!-- [4l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%204
 [5l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%205
 [6l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%206
 [7l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%207
