@@ -36,7 +36,7 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam | [[link](http://moodle.epfl.ch/
 | 29/09     | -           | Information Retrieval       | Basic Text Retrieval Models [[slides][2p], [lab][2l]] |
 | 06/10     | -           |                             | Probabilistic Retrieval and Relevance Feedback [[slides][3p], [lab][3l]] |
 | 13/10     | -           |                             | Indexing and Distributed retrieval  [[slides][4p], [lab][4l]]  |
-| 20/10     | -           |                             | Indexing and Distributed retrieval  [[slides][5p], [lab][5l]] |
+| 20/10     | -           |                             | Latent Semantic Indexing  [[slides][5p], [lab][5l]] |
 | 27/10     | **Midterm** |                             | Word Embeddings  [[slides][6p], [lab][6l]] |
 | 3/11      | -           | Data Mining                 | Link-based Ranking  <!-- [[slides][7p], [lab][7l]] --> |
 | 10/11     | -           |                             | Graph Mining <!-- [[slides][8p], [lab][8l]]  -->   |
