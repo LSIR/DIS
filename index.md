@@ -38,8 +38,8 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam | [[link](http://moodle.epfl.ch/
 | 13/10     | -           |                             | Indexing and Distributed retrieval  [[slides][4p], [lab][4l]]  |
 | 20/10     | -           |                             | Latent Semantic Indexing  [[slides][5p], [lab][5l]] |
 | 27/10     | **Midterm** |                             | Word Embeddings  [[slides][6p], [lab][6l]] |
-| 3/11      | -           | Data Mining                 | Link-based Ranking  <!-- [[slides][7p], [lab][7l]] --> |
-| 10/11     | -           |                             | Graph Mining <!-- [[slides][8p], [lab][8l]]  -->   |
+| 3/11      | -           | Data Mining                 | Link-based Ranking  [[slides][7p], [lab][7l]] |
+| 10/11     | -           |                             | Graph Mining  [[slides][8p], [lab][8l]]    |
 | 17/11     | -           |                             | Document Classification <!-- [[slides][9p], [lab][9l]] -->                           |
 | 24/11     | -           |                             | Recommender Systems <!-- [[slides][10p], [lab][10l]]   -->            |
 | 1/12      | -           | From Documents to Knowledge | Association Rules <!-- [[slides][11p], [lab][11l]]  -->                |
@@ -88,9 +88,9 @@ Given the unusual situation this semester we might see the need to modify the or
 [4p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%204
 [5p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%205
 [6p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%206
-<!--[7p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%207
+[7p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%207
 [8p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%208
-[9p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%209
+<!--[9p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%209
 [10p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2010
 [11p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2011
 [12p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2012
@@ -102,9 +102,9 @@ Given the unusual situation this semester we might see the need to modify the or
 [4l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%204
 [5l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%205
 [6l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%206
-<!--[7l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%207
+[7l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%207
 [8l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%208
-[9l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%209
+<!--[9l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%209
 [10l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2010
 [11l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2011
 [12l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2012
