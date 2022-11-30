@@ -42,7 +42,7 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam | [[link](http://moodle.epfl.ch/
 | 10/11     | -           |                             | Graph Mining  [[slides][8p], [lab][8l]]    |
 | 17/11     | -           |                             | Document Classification [[slides][9p], [lab][9l]]                           |
 | 24/11     | -           |                             | Recommender Systems [[slides][10p], [lab][10l]]              |
-| 1/12      | -           | From Documents to Knowledge | Association Rules <!-- [[slides][11p], [lab][11l]]  -->                |
+| 1/12      | -           | From Documents to Knowledge | Association Rules [[slides][11p], [lab][11l]]                 |
 | 8/12      | -           |                             | Semantic Web <!-- [[slides][12p], [lab][12l]]  -->  |
 | 15/12     | **Quiz**    |                             | Entity and Information Extraction <!-- [[slides][13p], [lab][13l]]  -->     |
 | 22/12     | -           | Review                      | Inference for Knowledge Graphs      |
@@ -92,8 +92,8 @@ Given the unusual situation this semester we might see the need to modify the or
 [8p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%208
 [9p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%209
 [10p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2010
-<!--[11p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2011
-[12p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2012
+[11p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2011
+<!--[12p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2012
 [13p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2013 -->
 
 <!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
@@ -106,6 +106,6 @@ Given the unusual situation this semester we might see the need to modify the or
 [8l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%208
 [9l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%209
 [10l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2010
-<!--[11l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2011
-[12l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2012
+[11l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2011
+<!--[12l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2012
 [13l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2013 -->
