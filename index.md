@@ -45,7 +45,7 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam | [[link](http://moodle.epfl.ch/
 | 1/12      | -           | From Documents to Knowledge | Association Rules [[slides][11p], [lab][11l]]                 |
 | 8/12      | -           |                             | Semantic Web [[slides][12p], [lab][12l]]   |
 | 15/12     | **Quiz**    |                             | Entity and Information Extraction [[slides][13p], [lab][13l]]     |
-| 22/12     | -           | Review                      | Inference for Knowledge Graphs      |
+| 22/12     | -           | Review                      | Inference for Knowledge Graphs   [[slides][14p], [lab][14l]]    |
 
 
 ### Exercises Session format (In-person):
