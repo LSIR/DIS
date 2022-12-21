@@ -95,6 +95,7 @@ Given the unusual situation this semester we might see the need to modify the or
 [11p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2011
 [12p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2012
 [13p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2013
+[14p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2014
 
 <!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
 [2l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%202
@@ -109,3 +110,4 @@ Given the unusual situation this semester we might see the need to modify the or
 [11l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2011
 [12l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2012
 [13l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2013
+[14l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2014
