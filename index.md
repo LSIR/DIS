@@ -1,7 +1,9 @@
  
 This course introduces the key concepts and algorithms from the areas of information retrieval, data mining and knowledge bases, which constitute the foundations of today's web-based distributed information systems. 
 
-<!-- ## Exam (11/01/2021 from 08:15 to 11:15 at [AAC231](https://plan.epfl.ch/?room==AAC%202%2031), [SG1](https://plan.epfl.ch/?room==SG%201138)) -->
+### Final Exam:
+The final exam will take place on **01 Feb. 2023 from 15:00 to 18:00**.
+
 
 ### Midterm: 
 The midterm will take place during the exercises session on **27 Oct. 2022 from 12:15 to 13:00** in rooms: CM3 (where the lectures are taking place) and CM1105 (this room will be used if there are no available spots in CM3).
@@ -76,10 +78,6 @@ You can contact me anytime by email. If necessary, I will schedule a Zoom meetin
 
 **Teaching assistants**: [Angelika Romanou](https://people.epfl.ch/angelika.romanou), [Negar Foroutan](https://people.epfl.ch/negar.foroutan?lang=en), [Mohammadreza Banaei](https://people.epfl.ch/mohammadreza.banaei?lang=en) and [Ehsan Mokhtarian](https://people.epfl.ch/ehsan.mokhtarian).
 Please contact us for any organisational questions or questions related to the course content.
-<!-- 
-## Disclaimer
-
-Given the unusual situation this semester we might see the need to modify the organisation of the course throughout the semester to adapt to the needs. Please follow carefully the announcements that are provided on Moodle/Ed. -->
 
 
 [1p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%201
