@@ -2,7 +2,7 @@
 This course introduces the key concepts and algorithms from the areas of information retrieval, data mining and knowledge bases, which constitute the foundations of today's web-based distributed information systems. 
 
 ### Final Exam:
-The final exam will take place on **01 Feb. 2023 from 15:00 to 18:00**.
+The final exam will take place on **01 Feb. 2023 from 15:00 to 18:00** in rooms **CE 1515** and **CE 6**.
 
 
 ### Midterm: 
