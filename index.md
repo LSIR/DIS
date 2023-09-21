@@ -22,7 +22,7 @@ The final exam will take place on **01 Feb. 2023 from 15:00 to 18:00** in rooms 
 
 | Platform | Description  |
 |:---------|:-----------|
-Lecture | **Thursdays [10:15-12:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/66237387610)] |
+Lecture | **Thursdays [10:15-12:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/66462767931)] |
 Lab session |  **Thursdays [12:15-13:00]** |
 Mediaspace | Recorded Lectures [[link (TBA)]()] |
 Ed Forum | Q&A [[link](https://edstem.org/eu/courses/831/discussion/)] | 
