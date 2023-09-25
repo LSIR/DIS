@@ -50,19 +50,74 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 | 14   | 21/12     | -           |                             | Association Rule Mining  |
 
 
+
+## Projects
+During the semester, you will need to implement 4 graded projects, regarding the following topics:
+- P1: Text Retrieval
+- P2: Recommender Systems
+- P3: Named Entity Linking
+- P4: Relation Extraction
+
+**Logistics:**
+- All 4 projects comprise **50% of the final grade** (12.5% each).
+- You will have **3 weeks** to implement and submit each project (please review the detailed schedule per project below).
+- You will have **5 late-days policy** that you can use in any project deadline throughout the semester.
+- All projects will be implemented in **Python**.
+- A **2-page report** of each project should be submitted in Moodle.
+- Details for each project will be released for each project respectively.
+
+#### P1: Text Retrieval
+Release Date: **25 Sept**
+
+Presentation Date: **28 Sept**, 12-13:00 (during lab session)
+
+Deadline Date: **15 Oct**, 23:59.
+
+#### P2: Recommender Systems
+Release Date: **16 Oct**
+
+Presentation Date: **19 Oct**, 12-13:00 (during lab session)]
+
+Deadline Date: **5 Nov**, 23:59.
+
+#### P3: Named Entity Linking
+Release Date: **6 Nov**
+
+Presentation Date: **9 Nov**, 12-13:00 (during lab session)
+
+Deadline Date: **26 Nov**, 23:59.
+
+#### P4: Relation Extraction
+Release Date: **27 Nov**
+
+Presentation Date: **30 Nov**, 12-13:00 (during lab session)
+
+Deadline Date: **17 Dec**, 23:59.
+
+### Evaluation criteria
+- **40%:**  Results - Metrics   [Comparison with baselines]
+- **30%:** Code
+    - Working code (20%)
+    - Code quality and documentation (10%)
+- **30%:** 2-page Report   [Moodle submission]
+    - Originality of approach (10%)
+    - Interpretation of results (10%)
+    - Report presentation & clarity (10%)
+
+## Exercises
+Exercises are **NOT graded**. We have released exercises for all topics covered in the weekly lectures under [this path](https://github.com/LSIR/DIS/tree/master/Exercises). Feel free to solve them since the final exam will follow the same format.
+
+Exercises / Lab sessions will be allocated for questions regarding the Projects.
+
+## Final Exam (TBA)
+
 <!-- ### Exercises Session format (In-person):
 - TAs will provide a small discussion over the **last week's exercises**, answering any questions and explaining the solutions. _(10-15mins)_
 - TAs will present **this week's exercise**. _(5mins)_ 
 - Students will be solving this week's exercises and TAs will provide answers and clarification if needed.
-
 _**Note**: Please make sure you have already done the setup prerequisites to run the coding parts of the exercises. You can find the instructions [here](https://github.com/LSIR/DIS/tree/master/Exercises/setup)._ -->
 
-<!-- ## Continuous Evaluation
 
-We will offer one programming midterm and one quiz, which will be similar to questions you will find in the final exam. These intermediate exams **will be graded**.
-
-The final exam will consist of multiple-choice questions, one theoretical question, and one programming task. Throughout the semester you will have examples of such questions and tasks in the weekly exercises. We also provide mock exams and quizzes from previous years: [2019 Midterm Exam](https://github.com/LSIR/DIS/blob/master/Extras/2019-Midterm), [2018 Quizzes](https://github.com/LSIR/DIS/blob/master/Extras/2018-Quizzes), [2018 Final Exam](https://github.com/LSIR/DIS/blob/master/Extras/2018-Final).
- -->
 
 ## Communication Guidelines
 
