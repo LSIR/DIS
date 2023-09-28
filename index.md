@@ -51,7 +51,7 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 
 
 
-## Projects
+## Projects [[video](https://mediaspace.epfl.ch/media/t/0_rzxy388h/29734)]
 During the semester, you will need to implement 4 graded projects, regarding the following topics:
 - P1: Text Retrieval
 - P2: Recommender Systems
