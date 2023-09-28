@@ -24,7 +24,7 @@ The final exam will take place on **01 Feb. 2023 from 15:00 to 18:00** in rooms 
 |:---------|:-----------|
 Lecture | **Thursdays [10:15-12:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/66462767931)] |
 Lab session |  **Thursdays [12:15-13:00]** |
-Mediaspace | Recorded Lectures [[link (TBA)]()] |
+Mediaspace | Recorded Lectures [[link](https://mediaspace.epfl.ch/channel/CS-423%2BDistributed%2BInformation%2BSystems%2B-%2BFall%2B2022/29734)] |
 Ed Forum | Q&A [[link](https://edstem.org/eu/courses/831/discussion/)] | 
 Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4051)] |
 
@@ -34,7 +34,7 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 
 | Week | Date      | Exam (TBA)  | Area                        | Material                                                           |
 |:----:|:---------:|:-----------:|:----------------------------|:-------------------------------------------------------------------|
-| 1    | 21/09     | -           |                             | Course overview [[slides][1p]] |
+| 1    | 21/09     | -           |                             | Course overview [[slides][1p], [lecture][1v]] |
 | 2    | 28/09     | -           | Information Retrieval       | Basic Information Retrieval [[slides][2p]]|
 | 3    | 05/10     | -           |                             | Embedding techniques   |
 | 4    | 12/10     | -           |                             | Embedding techniques|
@@ -149,6 +149,8 @@ Please contact us for any organisational questions or questions related to the c
 [12p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2012
 [13p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2013
 [14p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2014 -->
+
+[1v]:https://mediaspace.epfl.ch/channel/CS-423%2BDistributed%2BInformation%2BSystems%2B-%2BFall%2B2022/29734
 
 <!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
 <!-- [2l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%202
