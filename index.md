@@ -51,7 +51,7 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 
 
 
-## Projects [[video](https://mediaspace.epfl.ch/media/t/0_rzxy388h/29734)]
+## Projects [[video](https://mediaspace.epfl.ch/media/Projects+Presenation+%26+Logistics/0_rzxy388h)]
 During the semester, you will need to implement 4 graded projects, regarding the following topics:
 - P1: Text Retrieval
 - P2: Recommender Systems
@@ -150,7 +150,7 @@ Please contact us for any organisational questions or questions related to the c
 [13p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2013
 [14p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2014 -->
 
-[1v]:https://mediaspace.epfl.ch/channel/CS-423%2BDistributed%2BInformation%2BSystems%2B-%2BFall%2B2022/29734
+[1v]:https://mediaspace.epfl.ch/media/DIS++-+Week+1/0_du781bni
 
 <!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
 <!-- [2l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%202
