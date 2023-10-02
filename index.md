@@ -71,28 +71,28 @@ Release Date: **25 Sept**
 
 Presentation Date: **28 Sept**, 12-13:00 (during lab session)
 
-Deadline Date: **15 Oct**, 23:59.
+Deadline Date: **22 Oct**, 23:59.
 
 #### P2: Recommender Systems
-Release Date: **16 Oct**
+Release Date: **23 Oct**
 
-Presentation Date: **19 Oct**, 12-13:00 (during lab session)]
+Presentation Date: **26 Oct**, 12-13:00 (during lab session)]
 
-Deadline Date: **5 Nov**, 23:59.
+Deadline Date: **12 Nov**, 23:59.
 
 #### P3: Named Entity Linking
-Release Date: **6 Nov**
+Release Date: **13 Nov**
 
-Presentation Date: **9 Nov**, 12-13:00 (during lab session)
+Presentation Date: **16 Nov**, 12-13:00 (during lab session)
 
-Deadline Date: **26 Nov**, 23:59.
+Deadline Date: **3 Dec**, 23:59.
 
 #### P4: Relation Extraction
-Release Date: **27 Nov**
+Release Date: **4 Dec**
 
-Presentation Date: **30 Nov**, 12-13:00 (during lab session)
+Presentation Date: **7 Dec**, 12-13:00 (during lab session)
 
-Deadline Date: **17 Dec**, 23:59.
+Deadline Date: **24 Dec**, 23:59.
 
 ### Evaluation criteria
 - **40%:**  Results - Metrics   [Comparison with baselines]
