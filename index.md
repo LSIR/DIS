@@ -36,7 +36,7 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 |:----:|:---------:|:-----------:|:----------------------------|:-------------------------------------------------------------------|
 | 1    | 21/09     | -           |                             | Course overview [[slides][1p], [lecture][1v]] |
 | 2    | 28/09     | -           | Information Retrieval       | Basic Information Retrieval [[slides][2p]]|
-| 3    | 05/10     | -           |                             | Embedding techniques   |
+| 3    | 05/10     | -           |                             | Embedding techniques [[slides][3p]] |
 | 4    | 12/10     | -           |                             | Embedding techniques|
 | 5    | 19/10     | -           | Recommender Systems         | Recommender Systems  |
 | 6    | 26/10     | -           | Information Extraction      | Named Entity Recognition  |
@@ -137,8 +137,8 @@ Please contact us for any organisational questions or questions related to the c
 
 [1p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%201
 [2p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%202
-<!-- [3p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%203
-[4p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%204
+[3p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%203
+<!-- [4p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%204
 [5p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%205
 [6p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%206
 [7p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%207
