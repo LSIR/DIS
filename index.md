@@ -53,7 +53,7 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 
 ## Projects [[video](https://mediaspace.epfl.ch/media/Projects+Presenation+%26+Logistics/0_rzxy388h)]
 During the semester, you will need to implement 4 graded projects, regarding the following topics:
-- P1: Text Retrieval
+- P1: Text Retrieval 
 - P2: Recommender Systems
 - P3: Named Entity Linking
 - P4: Relation Extraction
@@ -66,7 +66,7 @@ During the semester, you will need to implement 4 graded projects, regarding the
 - A **2-page report** of each project should be submitted in Moodle.
 - Details for each project will be released for each project respectively.
 
-#### P1: Text Retrieval
+#### P1: Text Retrieval [[video](https://mediaspace.epfl.ch/media/P1+Presentation/0_8jf49auh/29734)]
 Release Date: **25 Sept**
 
 Presentation Date: **28 Sept**, 12-13:00 (during lab session)
