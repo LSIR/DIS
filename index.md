@@ -38,7 +38,7 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 | 2    | 28/09     | -           | Information Retrieval       | Basic Information Retrieval [[slides][2p], [lecture][2v]]|
 | 3    | 05/10     | -           |                             | Embedding techniques [[slides][3p], [lecture][3v]] |
 | 4    | 12/10     | -           |                             | Embedding techniques [[slides][4p], [lecture][4v]] |
-| 5    | 19/10     | -           | Recommender Systems         | Recommender Systems  |
+| 5    | 19/10     | -           | Recommender Systems         | Recommender Systems [[slides][5p], [lecture][5v]]  |
 | 6    | 26/10     | -           | Information Extraction      | Named Entity Recognition  |
 | 7    | 2/11      | -           |                             | Document Classification  |
 | 8    | 9/11      | -           |                             | Knowledge Representation  |
@@ -139,8 +139,8 @@ Please contact us for any organisational questions or questions related to the c
 [2p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%202
 [3p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%203
 [4p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%204
-<!-- [5p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%205
-[6p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%206
+[5p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%205
+<!-- [6p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%206
 [7p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%207
 [8p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%208
 [9p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%209
@@ -154,6 +154,7 @@ Please contact us for any organisational questions or questions related to the c
 [2v]:https://mediaspace.epfl.ch/media/DIS+-+Week+2/0_jxhlt3x3/29734
 [3v]:https://mediaspace.epfl.ch/media/DIS+-+Week+3/0_43fqnsoo/29734
 [4v]:https://mediaspace.epfl.ch/media/DIS+-+Week+4/0_e58heko5/29734
+[5v]:https://mediaspace.epfl.ch/media/DIS+-+Week+5/0_dv826nq6/29734
 
 <!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
 <!-- [2l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%202
