@@ -39,8 +39,8 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 | 3    | 05/10     | -           |                             | Embedding techniques [[slides][3p], [lecture][3v]] |
 | 4    | 12/10     | -           |                             | Embedding techniques [[slides][4p], [lecture][4v]] |
 | 5    | 19/10     | -           | Recommender Systems         | Recommender Systems [[slides][5p], [lecture][5v]]  |
-| 6    | 26/10     | -           | Information Extraction      | Named Entity Recognition  |
-| 7    | 2/11      | -           |                             | Document Classification  |
+| 6    | 26/10     | -           | Information Extraction      | Named Entity Recognition  [[slides][6p]]|
+| 7    | 2/11      | -           |                             | Document Classification  [[slides][7p]]|
 | 8    | 9/11      | -           |                             | Knowledge Representation  |
 | 9    | 16/11     | -           |                             | Information Extraction  |
 | 10   | 23/11     | -           |                             | Taxonomy induction  |
@@ -140,9 +140,9 @@ Please contact us for any organisational questions or questions related to the c
 [3p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%203
 [4p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%204
 [5p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%205
-<!-- [6p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%206
+[6p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%206
 [7p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%207
-[8p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%208
+<!-- [8p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%208
 [9p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%209
 [10p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2010
 [11p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2011
