@@ -40,7 +40,7 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 | 4    | 12/10     | -           |                             | Embedding techniques [[slides][4p], [lecture][4v]] |
 | 5    | 19/10     | -           | Recommender Systems         | Recommender Systems [[slides][5p], [lecture][5v]]  |
 | 6    | 26/10     | -           | Information Extraction      | Named Entity Recognition  [[slides][6p], [lecture][6v]] |
-| 7    | 2/11      | -           |                             | Document Classification  [[slides][7p]]|
+| 7    | 2/11      | -           |                             | Document Classification  [[slides][7p], [lecture][7v]]|
 | 8    | 9/11      | -           |                             | Knowledge Representation  |
 | 9    | 16/11     | -           |                             | Information Extraction  |
 | 10   | 23/11     | -           |                             | Taxonomy induction  |
@@ -156,6 +156,7 @@ Please contact us for any organisational questions or questions related to the c
 [4v]:https://mediaspace.epfl.ch/media/DIS+-+Week+4/0_e58heko5/29734
 [5v]:https://mediaspace.epfl.ch/media/DIS+-+Week+5/0_dv826nq6/29734
 [6v]:https://mediaspace.epfl.ch/media/DIS+-+Week+6/0_5y9q7cjm/29734
+[7v]:https://mediaspace.epfl.ch/media/DIS++-+Week+7/0_e5szz3qp/29734
 
 <!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
 <!-- [2l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%202
