@@ -41,7 +41,7 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 | 5    | 19/10     | -           | Recommender Systems         | Recommender Systems [[slides][5p], [lecture][5v]]  |
 | 6    | 26/10     | -           | Information Extraction      | Named Entity Recognition  [[slides][6p], [lecture][6v]] |
 | 7    | 2/11      | -           |                             | Document Classification  [[slides][7p], [lecture][7v]]|
-| 8    | 9/11      | -           |                             | Knowledge Representation  [[slides][8p]]|
+| 8    | 9/11      | -           |                             | Graph Mining  [[slides][8p]]|
 | 9    | 16/11     | -           |                             | Information Extraction  |
 | 10   | 23/11     | -           |                             | Taxonomy induction  |
 | 11   | 30/11     | -           | Graph Analytics             | Link-based Ranking  |
