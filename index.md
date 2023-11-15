@@ -42,7 +42,7 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 | 6    | 26/10     | -           | Information Extraction      | Named Entity Recognition  [[slides][6p], [lecture][6v]] |
 | 7    | 2/11      | -           |                             | Document Classification  [[slides][7p], [lecture][7v]]|
 | 8    | 9/11      | -           |                             | Graph Mining  [[slides][8p]]|
-| 9    | 16/11     | -           |                             | Information Extraction  |
+| 9    | 16/11     | -           |                             | Information Extraction [[slides][p]]|
 | 10   | 23/11     | -           |                             | Taxonomy induction  |
 | 11   | 30/11     | -           | Graph Analytics             | Link-based Ranking  |
 | 12   | 7/12      | -           |                             | Knowledge Inferences  |
@@ -143,11 +143,11 @@ Please contact us for any organisational questions or questions related to the c
 [6p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%206
 [7p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%207
 [8p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%208
-<!-- [9p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%209
-[10p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2010
-[11p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2011
-[12p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2012
-[13p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2013 -->
+[9p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%209
+<!-- [10p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2010 -->
+<!-- [11p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2011 -->
+<!-- [12p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2012 -->
+<!-- [13p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2013 -->
 <!-- [14p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2014 -->
 
 [1v]:https://mediaspace.epfl.ch/media/DIS++-+Week+1/0_du781bni
