@@ -41,8 +41,8 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 | 5    | 19/10     | -           | Recommender Systems         | Recommender Systems [[slides][5p], [lecture][5v]]  |
 | 6    | 26/10     | -           | Information Extraction      | Named Entity Recognition  [[slides][6p], [lecture][6v]] |
 | 7    | 2/11      | -           |                             | Document Classification  [[slides][7p], [lecture][7v]]|
-| 8    | 9/11      | -           |                             | Graph Mining  [[slides][8p]]|
-| 9    | 16/11     | -           |                             | Information Extraction [[slides][p]]|
+| 8    | 9/11      | -           |                             | Graph Mining  [[slides][8p], [slides][8v]]|
+| 9    | 16/11     | -           |                             | Information Extraction [[slides][9p]]|
 | 10   | 23/11     | -           |                             | Taxonomy induction  |
 | 11   | 30/11     | -           | Graph Analytics             | Link-based Ranking  |
 | 12   | 7/12      | -           |                             | Knowledge Inferences  |
@@ -157,6 +157,7 @@ Please contact us for any organisational questions or questions related to the c
 [5v]:https://mediaspace.epfl.ch/media/DIS+-+Week+5/0_dv826nq6/29734
 [6v]:https://mediaspace.epfl.ch/media/DIS+-+Week+6/0_5y9q7cjm/29734
 [7v]:https://mediaspace.epfl.ch/media/DIS++-+Week+7/0_e5szz3qp/29734
+[8v]:https://mediaspace.epfl.ch/media/DIS+-+Week+8/0_t7phnw8c/29734
 
 <!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
 <!-- [2l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%202
