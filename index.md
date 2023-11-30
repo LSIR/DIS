@@ -44,7 +44,7 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 | 8    | 9/11      | -           |                             | Graph Mining  [[slides][8p], [lecture][8v]]|
 | 9    | 16/11     | -           |                             | Information Extraction [[slides][9p], [lecture][9v]]|
 | 10   | 23/11     | -           |                             | Taxonomy Induction  [[slides][10p]]|
-| 11   | 30/11     | -           | Graph Analytics             | Link-based Ranking  |
+| 11   | 30/11     | -           | Graph Analytics             | Link-based Ranking  [[slides][11p]]|
 | 12   | 7/12      | -           |                             | Knowledge Inferences  |
 | 13   | 14/12     | -           | Data Indexing and mining    | Indexing for Information retrival  |
 | 14   | 21/12     | -           |                             | Association Rule Mining  |
@@ -145,7 +145,7 @@ Please contact us for any organisational questions or questions related to the c
 [8p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%208
 [9p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%209
 [10p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2010
-<!-- [11p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2011 -->
+[11p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2011
 <!-- [12p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2012 -->
 <!-- [13p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2013 -->
 <!-- [14p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2014 -->
