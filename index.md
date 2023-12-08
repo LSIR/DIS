@@ -45,7 +45,7 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 | 9    | 16/11     | -           |                             | Information Extraction [[slides][9p], [lecture][9v]]|
 | 10   | 23/11     | -           |                             | Taxonomy Induction  [[slides][10p], [lecture][11v]]|
 | 11   | 30/11     | -           | Graph Analytics             | Link-based Ranking  [[slides][11p], [lecture][11v]]|
-| 12   | 7/12      | -           |                             | Knowledge Inferences  [[slides][12p]]|
+| 12   | 7/12      | -           |                             | Knowledge Inferences  [[slides][12p], [lecture][12v]]|
 | 13   | 14/12     | -           | Data Indexing and mining    | Indexing for Information retrival  |
 | 14   | 21/12     | -           |                             | Association Rule Mining  |
 
@@ -160,6 +160,7 @@ Please contact us for any organisational questions or questions related to the c
 [8v]:https://mediaspace.epfl.ch/media/DIS+-+Week+8/0_t7phnw8c/29734
 [9v]:https://mediaspace.epfl.ch/media/DIS+-+Week+9/0_11u9eyqc/29734
 [11v]:https://mediaspace.epfl.ch/media/DIS+-+Week+11/0_0wt0hvfa/29734
+[12v]:https://mediaspace.epfl.ch/media/DIS+-+Week+12/0_h2vma9g1/29734
 
 <!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
 <!-- [2l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%202
