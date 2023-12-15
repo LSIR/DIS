@@ -43,7 +43,7 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 | 7    | 2/11      | -           |                             | Document Classification  [[slides][7p], [lecture][7v]]|
 | 8    | 9/11      | -           |                             | Graph Mining  [[slides][8p], [lecture][8v]]|
 | 9    | 16/11     | -           |                             | Information Extraction [[slides][9p], [lecture][9v]]|
-| 10   | 23/11     | -           |                             | Taxonomy Induction  [[slides][10p], [lecture][11v]]|
+| 10   | 23/11     | -           |                             | Taxonomy Induction  [[slides][10p], [lecture][10v]]|
 | 11   | 30/11     | -           | Graph Analytics             | Link-based Ranking  [[slides][11p], [lecture][11v]]|
 | 12   | 7/12      | -           |                             | Knowledge Inferences  [[slides][12p], [lecture][12v]]|
 | 13   | 14/12     | -           | Data Indexing and mining    | Indexing for Information retrival  [[slides][13p]]|
@@ -159,6 +159,7 @@ Please contact us for any organisational questions or questions related to the c
 [7v]:https://mediaspace.epfl.ch/media/DIS++-+Week+7/0_e5szz3qp/29734
 [8v]:https://mediaspace.epfl.ch/media/DIS+-+Week+8/0_t7phnw8c/29734
 [9v]:https://mediaspace.epfl.ch/media/DIS+-+Week+9/0_11u9eyqc/29734
+[10v]:https://mediaspace.epfl.ch/media/DIS+-+Week+10/0_7nu7640p/29734
 [11v]:https://mediaspace.epfl.ch/media/DIS+-+Week+11/0_0wt0hvfa/29734
 [12v]:https://mediaspace.epfl.ch/media/DIS+-+Week+12/0_h2vma9g1/29734
 
