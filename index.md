@@ -78,19 +78,12 @@ Release Date: **23 Oct**
 
 Presentation Date: **26 Oct**, 12-13:00 (during lab session)]
 
-Deadline Date: **12 Nov**, 23:59.
+Deadline Date: **19 Nov**, 23:59.
 
 #### P3: Named Entity Linking
-Release Date: **13 Nov**
+Release Date: **20 Nov**
 
-Presentation Date: **16 Nov**, 12-13:00 (during lab session)
-
-Deadline Date: **3 Dec**, 23:59.
-
-#### P4: Relation Extraction
-Release Date: **4 Dec**
-
-Presentation Date: **7 Dec**, 12-13:00 (during lab session)
+Presentation Date: **23 Nov**, 12-13:00 (during lab session)
 
 Deadline Date: **24 Dec**, 23:59.
 
