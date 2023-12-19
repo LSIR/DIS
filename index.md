@@ -85,7 +85,7 @@ Release Date: **20 Nov**
 
 Presentation Date: **23 Nov**, 12-13:00 (during lab session)
 
-Deadline Date: **24 Dec**, 23:59.
+Deadline Date: **22 Dec**, 23:59.
 
 ### Evaluation criteria
 - **40%:**  Results - Metrics   [Comparison with baselines]
