@@ -102,14 +102,13 @@ Exercises are **NOT graded**. We have released exercises for all topics covered 
 
 Exercises / Lab sessions will be allocated for questions regarding the Projects.
 
-## Final Exam (TBA)
+## Final Exam
 
-<!-- ### Exercises Session format (In-person):
-- TAs will provide a small discussion over the **last week's exercises**, answering any questions and explaining the solutions. _(10-15mins)_
-- TAs will present **this week's exercise**. _(5mins)_ 
-- Students will be solving this week's exercises and TAs will provide answers and clarification if needed.
-_**Note**: Please make sure you have already done the setup prerequisites to run the coding parts of the exercises. You can find the instructions [here](https://github.com/LSIR/DIS/tree/master/Exercises/setup)._ -->
+📅 **Date:** Tuesday, Jan 30 (30.01.2024)
 
+🕒 **When:** From 15h15 to 18h15
+
+📍 **Where:** PO01
 
 
 ## Communication Guidelines
