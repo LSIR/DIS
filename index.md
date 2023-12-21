@@ -47,7 +47,7 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 | 11   | 30/11     | -           | Graph Analytics             | Link-based Ranking  [[slides][11p], [lecture][11v]]|
 | 12   | 7/12      | -           |                             | Knowledge Inferences  [[slides][12p], [lecture][12v]]|
 | 13   | 14/12     | -           | Data Indexing and mining    | Indexing for Information retrival  [[slides][13p], [lecture][13v]]|
-| 14   | 21/12     | -           |                             | Association Rule Mining  |
+| 14   | 21/12     | -           |                             | Association Rule Mining [[slides][14p]] |
 
 
 
@@ -140,7 +140,7 @@ Please contact us for any organisational questions or questions related to the c
 [11p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2011
 [12p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2012
 [13p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2013
-<!-- [14p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2014 -->
+[14p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2014
 
 [1v]:https://mediaspace.epfl.ch/media/DIS++-+Week+1/0_du781bni
 [2v]:https://mediaspace.epfl.ch/media/DIS+-+Week+2/0_jxhlt3x3/29734
