@@ -22,11 +22,11 @@ The final exam will take place on **01 Feb. 2023 from 15:00 to 18:00** in rooms 
 
 | Platform | Description  |
 |:---------|:-----------|
-Lecture | **Thursdays [10:15-12:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/66462767931)] |
-Lab session |  **Thursdays [12:15-13:00]** |
+Lecture | **Thursdays [10:15-12:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link]()] |
+Lab session |  **Thursdays [12:15-14:00]** |
 Mediaspace | Recorded Lectures [[link](https://mediaspace.epfl.ch/channel/CS-423%2BDistributed%2BInformation%2BSystems%2B-%2BFall%2B2022/29734)] |
-Ed Forum | Q&A [[link](https://edstem.org/eu/courses/831/discussion/)] | 
-Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4051)] |
+Ed Forum | Q&A [[link](https://edstem.org/eu/courses/1652/discussion/)] | 
+Moodle | Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4051)] |
 
 
 
@@ -34,58 +34,49 @@ Moodle | Midterm, Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view
 
 | Week | Date      | Exam (TBA)  | Area                        | Material                                                           |
 |:----:|:---------:|:-----------:|:----------------------------|:-------------------------------------------------------------------|
-| 1    | 21/09     | -           |                             | Course overview [[slides][1p], [lecture][1v]] |
-| 2    | 28/09     | -           | Information Retrieval       | Basic Information Retrieval [[slides][2p], [lecture][2v]]|
-| 3    | 05/10     | -           |                             | Embedding techniques [[slides][3p], [lecture][3v]] |
-| 4    | 12/10     | -           |                             | Embedding techniques [[slides][4p], [lecture][4v]] |
-| 5    | 19/10     | -           | Recommender Systems         | Recommender Systems [[slides][5p], [lecture][5v]]  |
-| 6    | 26/10     | -           | Information Extraction      | Named Entity Recognition  [[slides][6p], [lecture][6v]] |
-| 7    | 2/11      | -           |                             | Document Classification  [[slides][7p], [lecture][7v]]|
-| 8    | 9/11      | -           |                             | Graph Mining  [[slides][8p], [lecture][8v]]|
-| 9    | 16/11     | -           |                             | Information Extraction [[slides][9p], [lecture][9v]]|
-| 10   | 23/11     | -           |                             | Taxonomy Induction  [[slides][10p], [lecture][10v]]|
-| 11   | 30/11     | -           | Graph Analytics             | Link-based Ranking  [[slides][11p], [lecture][11v]]|
-| 12   | 7/12      | -           |                             | Knowledge Inferences  [[slides][12p], [lecture][12v]]|
-| 13   | 14/12     | -           | Data Indexing and mining    | Indexing for Information retrival  [[slides][13p], [lecture][13v]]|
-| 14   | 21/12     | -           |                             | Association Rule Mining [[slides][14p], [lecture][14v]] |
+| 1    | 12/09     |                             | Course overview  | [[slides][1p]] |
+| 2    | 19/09     | Information Retrieval       | Basic Information Retrieval |
+| 3    | 26/09     |                             | Embedding techniques  |
+| 4    | 03/10     |                             | Embedding techniques |
+| 5    | 10/10     |                             | Recommender Systems  |
+| 6    | 17/10     |                             | Document Classification |
+| 7    | 31/10     |                             | Link Ranking |
+| 8    | 7/11      | Information Extraction      | Graph Mining |
+| 9    | 14/11     |                             | Named Entity Recognition |
+| 10   | 21/11     |                             | Knowledge Representation |
+| 11   | 28/11     |                             | Information Extraction |
+| 12   | 05/12     |                             | Knowledge Inferences |
+| 13   | 12/12     |                             | Indexing for Information retrival ]|
+| 14   | 19/12     |                             | Association Rule Mining |
 
 
 
-## Projects [[video](https://mediaspace.epfl.ch/media/Projects+Presenation+%26+Logistics/0_rzxy388h)]
-During the semester, you will need to implement 4 graded projects, regarding the following topics:
+## Projects [[video]()]
+During the semester, you will need to implement 2 graded projects, regarding the following topics:
 - P1: Text Retrieval 
-- P2: Recommender Systems
-- P3: Named Entity Linking
-- P4: Relation Extraction
+- P2: TBA
 
 **Logistics:**
-- All 4 projects comprise **50% of the final grade** (12.5% each).
-- You will have **3 weeks** to implement and submit each project (please review the detailed schedule per project below).
+- All 2 projects comprise **50% of the final grade** (25% each).
+- You will have **6 weeks** to implement and submit each project (please review the detailed schedule per project below).
 - You will have **5 late-days policy** that you can use in any project deadline throughout the semester.
 - All projects will be implemented in **Python**.
 - A **2-page report** of each project should be submitted in Moodle.
 - Details for each project will be released for each project respectively.
 
 #### P1: Text Retrieval [[video](https://mediaspace.epfl.ch/media/P1+Presentation/0_8jf49auh/29734)]
-Release Date: **25 Sept**
+Release Date: **16 Sept**
 
-Presentation Date: **28 Sept**, 12-13:00 (during lab session)
+Presentation Date: **19 Sept**, 12-13:00 (during lab session)
 
-Deadline Date: **22 Oct**, 23:59.
+Deadline Date: **3 Nov**, 23:59.
 
-#### P2: Recommender Systems
-Release Date: **23 Oct**
+#### P2: TBA
+Release Date: **4 Nov**
 
-Presentation Date: **26 Oct**, 12-13:00 (during lab session)]
+Presentation Date: **7 Nov**, 12-13:00 (during lab session)]
 
-Deadline Date: **19 Nov**, 23:59.
-
-#### P3: Named Entity Linking
-Release Date: **20 Nov**
-
-Presentation Date: **23 Nov**, 12-13:00 (during lab session)
-
-Deadline Date: **22 Dec**, 23:59.
+Deadline Date: **15 Dec**, 23:59.
 
 ### Evaluation criteria
 - **40%:**  Results - Metrics   [Comparison with baselines]
@@ -102,13 +93,13 @@ Exercises are **NOT graded**. We have released exercises for all topics covered 
 
 Exercises / Lab sessions will be allocated for questions regarding the Projects.
 
-## Final Exam
+## Final Exam (TBA)
 
-📅 **Date:** Tuesday, Jan 30 (30.01.2024)
+<!-- 📅 **Date:** Tuesday, Jan 30 (30.01.2024)
 
 🕒 **When:** From 15h15 to 18h15
 
-📍 **Where:** PO01
+📍 **Where:** PO01 -->
 
 
 ## Communication Guidelines
@@ -123,7 +114,7 @@ Exercises / Lab sessions will be allocated for questions regarding the Projects.
 **Lecturer**: [Karl Aberer](http://lsir.epfl.ch/aberer).
 You can contact me anytime by email. If necessary, I will schedule a Zoom meeting to clarify critical questions.
 
-**Teaching assistants**: [Angelika Romanou](https://people.epfl.ch/angelika.romanou), [Negar Foroutan](https://people.epfl.ch/negar.foroutan?lang=en), [Mohammadreza Banaei](https://people.epfl.ch/mohammadreza.banaei?lang=en) and [William Cappelletti](https://people.epfl.ch/william.cappelletti/?lang=en).
+**Teaching assistants**: [Angelika Romanou](https://people.epfl.ch/angelika.romanou), [Negar Foroutan](https://people.epfl.ch/negar.foroutan?lang=en), [Beatriz Borges](https://people.epfl.ch/beatriz.borges?lang=en) and [Mete Ismayilzada](https://people.epfl.ch/mahammad.ismayilzada?lang=en).
 Please contact us for any organisational questions or questions related to the course content.
 
 
