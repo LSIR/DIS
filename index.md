@@ -35,19 +35,19 @@ Moodle | Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4
 | Week | Date      | Exam (TBA)  | Area                        | Material                                                           |
 |:----:|:---------:|:-----------:|:----------------------------|:-------------------------------------------------------------------|
 | 1    | 12/09     |                             | Course overview  | [[slides][1p]] |
-| 2    | 19/09     | Information Retrieval       | Basic Information Retrieval |
-| 3    | 26/09     |                             | Embedding techniques  |
-| 4    | 03/10     |                             | Embedding techniques |
-| 5    | 10/10     |                             | Recommender Systems  |
-| 6    | 17/10     |                             | Document Classification |
-| 7    | 31/10     |                             | Link Ranking |
-| 8    | 7/11      | Information Extraction      | Graph Mining |
-| 9    | 14/11     |                             | Named Entity Recognition |
-| 10   | 21/11     |                             | Knowledge Representation |
-| 11   | 28/11     |                             | Information Extraction |
-| 12   | 05/12     |                             | Knowledge Inferences |
-| 13   | 12/12     |                             | Indexing for Information retrival ]|
-| 14   | 19/12     |                             | Association Rule Mining |
+| 2    | 19/09     | Information Retrieval       | Basic Information Retrieval | [[slides][2p]] |
+| 3    | 26/09     |                             | Embedding techniques  | |
+| 4    | 03/10     |                             | Embedding techniques | |
+| 5    | 10/10     |                             | Recommender Systems  | |
+| 6    | 17/10     |                             | Document Classification | |
+| 7    | 31/10     |                             | Link Ranking | |
+| 8    | 7/11      | Information Extraction      | Graph Mining | |
+| 9    | 14/11     |                             | Named Entity Recognition | |
+| 10   | 21/11     |                             | Knowledge Representation | |
+| 11   | 28/11     |                             | Information Extraction | |
+| 12   | 05/12     |                             | Knowledge Inferences | |
+| 13   | 12/12     |                             | Indexing for Information retrival | |
+| 14   | 19/12     |                             | Association Rule Mining | |
 
 
 
