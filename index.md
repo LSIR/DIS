@@ -34,7 +34,7 @@ Moodle | Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4
 
 | Week | Date      | Exam (TBA)  | Area                        | Material                                                           |
 |:----:|:---------:|:-----------:|:----------------------------|:-------------------------------------------------------------------|
-| 1    | 12/09     |                             | Course overview  | [[slides][1p]] |
+| 1    | 12/09     |                             | Course overview  | [[slides][1p], [video][1v]] |
 | 2    | 19/09     | Information Retrieval       | Basic Information Retrieval | [[slides][2p]] |
 | 3    | 26/09     |                             | Embedding techniques  | |
 | 4    | 03/10     |                             | Embedding techniques | |
@@ -133,20 +133,8 @@ Please contact us for any organisational questions or questions related to the c
 [13p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2013
 [14p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2014
 
-[1v]:https://mediaspace.epfl.ch/media/DIS++-+Week+1/0_du781bni
-[2v]:https://mediaspace.epfl.ch/media/DIS+-+Week+2/0_jxhlt3x3/29734
-[3v]:https://mediaspace.epfl.ch/media/DIS+-+Week+3/0_43fqnsoo/29734
-[4v]:https://mediaspace.epfl.ch/media/DIS+-+Week+4/0_e58heko5/29734
-[5v]:https://mediaspace.epfl.ch/media/DIS+-+Week+5/0_dv826nq6/29734
-[6v]:https://mediaspace.epfl.ch/media/DIS+-+Week+6/0_5y9q7cjm/29734
-[7v]:https://mediaspace.epfl.ch/media/DIS++-+Week+7/0_e5szz3qp/29734
-[8v]:https://mediaspace.epfl.ch/media/DIS+-+Week+8/0_t7phnw8c/29734
-[9v]:https://mediaspace.epfl.ch/media/DIS+-+Week+9/0_11u9eyqc/29734
-[10v]:https://mediaspace.epfl.ch/media/DIS+-+Week+10/0_7nu7640p/29734
-[11v]:https://mediaspace.epfl.ch/media/DIS+-+Week+11/0_0wt0hvfa/29734
-[12v]:https://mediaspace.epfl.ch/media/DIS+-+Week+12/0_h2vma9g1/29734
-[13v]:https://mediaspace.epfl.ch/media/DIS+-+Week+13/0_f5siltb2/29734
-[14v]:https://mediaspace.epfl.ch/media/DIS+-+Week+14/0_tz2mbi0r/29734
+[1v]:https://mediaspace.epfl.ch/media/DIS+-+Week+1/0_6cyqd2m2/29734
+
 
 <!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
 <!-- [2l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%202
