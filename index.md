@@ -22,7 +22,7 @@ The final exam will take place on **01 Feb. 2023 from 15:00 to 18:00** in rooms 
 
 | Platform | Description  |
 |:---------|:-----------|
-Lecture | **Thursdays [10:15-12:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link]()] |
+Lecture | **Thursdays [10:15-12:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/63657026419)] |
 Lab session |  **Thursdays [12:15-14:00]** |
 Mediaspace | Recorded Lectures [[link](https://mediaspace.epfl.ch/channel/CS-423%2BDistributed%2BInformation%2BSystems%2B-%2BFall%2B2022/29734)] |
 Ed Forum | Q&A [[link](https://edstem.org/eu/courses/1652/discussion/)] | 
