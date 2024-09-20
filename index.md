@@ -57,7 +57,7 @@ During the semester, you will need to implement 2 graded projects, regarding the
 - P2: TBA
 
 **Logistics:**
-- All 2 projects comprise **50% of the final grade** (25% each).
+- All 2 projects comprise **60% of the final grade** (30% each).
 - You will have **6 weeks** to implement and submit each project (please review the detailed schedule per project below).
 - You will have **5 late-days policy** that you can use in any project deadline throughout the semester.
 - All projects will be implemented in **Python**.
