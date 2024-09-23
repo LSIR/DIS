@@ -35,7 +35,7 @@ Moodle | Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4
 | Week | Date      | Exam (TBA)  | Area                        | Material                                                           |
 |:----:|:---------:|:-----------:|:----------------------------|:-------------------------------------------------------------------|
 | 1    | 12/09     |                             | Course overview  | [[slides][1p], [video][1v]] |
-| 2    | 19/09     | Information Retrieval       | Basic Information Retrieval | [[slides][2p]] |
+| 2    | 19/09     | Information Retrieval       | Basic Information Retrieval | [[slides][2p], [video][2v]] |
 | 3    | 26/09     |                             | Embedding techniques  | |
 | 4    | 03/10     |                             | Embedding techniques | |
 | 5    | 10/10     |                             | Recommender Systems  | |
@@ -134,7 +134,7 @@ Please contact us for any organisational questions or questions related to the c
 [14p]:https://github.com/LSIR/DIS/blob/master/Lectures/week%2014
 
 [1v]:https://mediaspace.epfl.ch/media/DIS+-+Week+1/0_6cyqd2m2/29734
-
+[2v]:https://mediaspace.epfl.ch/media/DIS+-+Week+2/0_wn2kfcxe/29734
 
 <!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
 <!-- [2l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%202
