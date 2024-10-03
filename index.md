@@ -36,8 +36,8 @@ Moodle | Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4
 |:----:|:---------:|:-----------:|:----------------------------|:-------------------------------------------------------------------|
 | 1    | 12/09     |                             | Course overview  | [[slides][1p], [video][1v]] |
 | 2    | 19/09     | Information Retrieval       | Basic Information Retrieval | [[slides][2p], [video][2v]] |
-| 3    | 26/09     |                             | Embedding techniques  | [[slides][3p]] |
-| 4    | 03/10     |                             | Embedding techniques | [[slides][4p]] |
+| 3    | 26/09     |                             | Embedding techniques  | [[slides][3p], [video][3v]] |
+| 4    | 03/10     |                             | Embedding techniques | [[slides][4p], [video][4v]] |
 | 5    | 10/10     |                             | Recommender Systems  | |
 | 6    | 17/10     |                             | Document Classification | |
 | 7    | 31/10     |                             | Link Ranking | |
@@ -135,18 +135,5 @@ Please contact us for any organisational questions or questions related to the c
 
 [1v]:https://mediaspace.epfl.ch/media/DIS+-+Week+1/0_6cyqd2m2/29734
 [2v]:https://mediaspace.epfl.ch/media/DIS+-+Week+2/0_wn2kfcxe/29734
-
-<!-- [1l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%201 -->
-<!-- [2l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%202
-[3l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%203
-[4l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%204
-[5l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%205
-[6l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%206
-[7l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%207
-[8l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%208
-[9l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%209
-[10l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2010
-[11l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2011
-[12l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2012
-[13l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2013
-[14l]:https://github.com/LSIR/DIS/blob/master/Exercises/week%2014 -->
+[3v]:https://mediaspace.epfl.ch/media/DIS+-+Week+3/0_5syk20l1/29734
+[4v]:https://mediaspace.epfl.ch/media/DIS+-+Week+4/0_lz19pk98/29734
