@@ -38,7 +38,7 @@ Moodle | Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4
 | 2    | 19/09     | Information Retrieval       | Basic Information Retrieval | [[slides][2p], [video][2v]] |
 | 3    | 26/09     |                             | Embedding techniques  | [[slides][3p], [video][3v]] |
 | 4    | 03/10     |                             | Embedding techniques | [[slides][4p], [video][4v]] |
-| 5    | 10/10     |                             | Recommender Systems  | |
+| 5    | 10/10     |                             | Recommender Systems  | [[slides][5p]] |
 | 6    | 17/10     |                             | Document Classification | |
 | 7    | 31/10     |                             | Link Ranking | |
 | 8    | 7/11      | Information Extraction      | Graph Mining | |
