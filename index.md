@@ -2,8 +2,7 @@
 This course introduces the key concepts and algorithms from the areas of information retrieval, data mining and knowledge bases, which constitute the foundations of today's web-based distributed information systems. 
 
 ### Final Exam:
-The final exam will take place on **30 Jan. 2025**.
-<!--from 15:00 to 18:00** in rooms **CE 1515** and **CE 6**. -->
+The final exam will take place on **30 Jan. 2025** from 15h15 to 18h15 in [PO01](https://plan.epfl.ch/?room==PO%2001).
 
 
 <!-- ### Midterm:  -->
