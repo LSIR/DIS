@@ -2,7 +2,11 @@
 This course introduces the key concepts and algorithms from the areas of information retrieval, data mining and knowledge bases, which constitute the foundations of today's web-based distributed information systems. 
 
 ### Final Exam:
-The final exam will take place on **30 Jan. 2025** from 15h15 to 18h15 in [PO01](https://plan.epfl.ch/?room==PO%2001).
+📅 **Date:** Thursday, Jan 30 (30.01.2025)
+
+🕒 **When:** From 15h15 to 18h15
+
+📍 **Where:** [PO01](https://plan.epfl.ch/?room==PO%2001)
 
 
 <!-- ### Midterm:  -->
@@ -64,17 +68,17 @@ During the semester, you will need to implement 2 graded projects, regarding the
 - A **2-page report** of each project should be submitted in Moodle.
 - Details for each project will be released for each project respectively.
 
-#### P1: Text Retrieval [[video](https://mediaspace.epfl.ch/media/P1+Presentation/0_8jf49auh/29734)]
+#### P1: Text Retrieval
 Release Date: **16 Sept**
 
 Presentation Date: **19 Sept**, 12-13:00 (during lab session)
 
 Deadline Date: **3 Nov**, 23:59.
 
-#### P2: TBA
-Release Date: **4 Nov**
+#### P2: Recommender Systems
+Release Date: **7 Nov**
 
-Presentation Date: **7 Nov**, 12-13:00 (during lab session)]
+Presentation Date: **14 Nov**, 12-13:00 (during lab session)]
 
 Deadline Date: **15 Dec**, 23:59.
 
@@ -92,14 +96,6 @@ Deadline Date: **15 Dec**, 23:59.
 Exercises are **NOT graded**. We have released exercises for all topics covered in the weekly lectures under [this path](https://github.com/LSIR/DIS/tree/master/Exercises). Feel free to solve them since the final exam will follow the same format.
 
 Exercises / Lab sessions will be allocated for questions regarding the Projects.
-
-## Final Exam (TBA)
-
-<!-- 📅 **Date:** Tuesday, Jan 30 (30.01.2024)
-
-🕒 **When:** From 15h15 to 18h15
-
-📍 **Where:** PO01 -->
 
 
 ## Communication Guidelines
