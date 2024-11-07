@@ -41,7 +41,7 @@ Moodle | Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4
 | 5    | 10/10     |                             | Recommender Systems  | [[slides][5p], [video][5v]] |
 | 6    | 17/10     |                             | Document Classification | [[slides][6p], [video][6v]] |
 | 7    | 31/10     |                             | Link Ranking | [[slides][7p]] |
-| 8    | 7/11      | Information Extraction      | Graph Mining | |
+| 8    | 7/11      | Information Extraction      | Graph Mining | [[slides][8p]] |
 | 9    | 14/11     |                             | Named Entity Recognition | |
 | 10   | 21/11     |                             | Knowledge Representation | |
 | 11   | 28/11     |                             | Information Extraction | |
