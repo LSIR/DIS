@@ -46,7 +46,7 @@ Moodle | Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4
 | 6    | 17/10     |                             | Document Classification | [[slides][6p], [video][6v]] |
 | 7    | 31/10     |                             | Transformers | [[video][7v]] |
 | 8    | 7/11      | Information Extraction      | Link Ranking, Graph Mining | [[slides][8p], [video][8v]] |
-| 9    | 14/11     |                             | Named Entity Recognition | |
+| 9    | 14/11     |                             | Named Entity Recognition | [[slides][9p]]|
 | 10   | 21/11     |                             | Knowledge Representation | |
 | 11   | 28/11     |                             | Information Extraction | |
 | 12   | 05/12     |                             | Knowledge Inferences | |
