@@ -47,7 +47,7 @@ Moodle | Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4
 | 7    | 31/10     |                             | Transformers | [[video][7v]] |
 | 8    | 7/11      | Information Extraction      | Link Ranking, Graph Mining | [[slides][8p], [video][8v]] |
 | 9    | 14/11     |                             | Named Entity Recognition | [[slides][9p], [video][9v]]|
-| 10   | 21/11     |                             | Knowledge Representation | [[slides][10p]]||
+| 10   | 21/11     |                             | Knowledge Representation | [[slides][10p], [video][10v]]||
 | 11   | 28/11     |                             | Information Extraction | [[slides][11p]] |
 | 12   | 05/12     |                             | Knowledge Inferences | |
 | 13   | 12/12     |                             | Indexing for Information retrival | |
@@ -138,3 +138,4 @@ Please contact us for any organisational questions or questions related to the c
 [7v]:https://mediaspace.epfl.ch/media/DIS+-+Transformers/0_y1ac6dme/29734
 [8v]:https://mediaspace.epfl.ch/media/DIS+-+Week+8/0_01ev6mmz/29734
 [9v]:https://mediaspace.epfl.ch/media/Week+9/0_r5qoddc6/29734
+[10v]:https://mediaspace.epfl.ch/media/Week+10/0_l8stktnj/29734
