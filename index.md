@@ -49,7 +49,7 @@ Moodle | Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4
 | 9    | 14/11     |                             | Named Entity Recognition | [[slides][9p], [video][9v]]|
 | 10   | 21/11     |                             | Knowledge Representation | [[slides][10p], [video][10v]]||
 | 11   | 28/11     |                             | Information Extraction | [[slides][11p]] |
-| 12   | 05/12     |                             | Knowledge Inferences | |
+| 12   | 05/12     |                             | Knowledge Inferences | [[slides][12p]] |
 | 13   | 12/12     |                             | Indexing for Information retrival | |
 | 14   | 19/12     |                             | Association Rule Mining | |
 
