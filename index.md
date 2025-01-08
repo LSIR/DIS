@@ -51,7 +51,7 @@ Moodle | Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4
 | 11   | 28/11     |                             | Information Extraction | [[slides][11p], [video][11v]] |
 | 12   | 05/12     |                             | Knowledge Inferences | [[slides][12p], [video][12v]] |
 | 13   | 12/12     |                             | Indexing for Information retrival | [[slides][13p], [video][13v]] |
-| 14   | 19/12     |                             | Association Rule Mining | [[slides][14p]] |
+| 14   | 19/12     |                             | Association Rule Mining | [[slides][14p], [video][14v]] |
 
 
 
@@ -142,3 +142,4 @@ Please contact us for any organisational questions or questions related to the c
 [11v]:https://mediaspace.epfl.ch/media/Week+11/0_7ofa2ai3/29734
 [12v]:https://mediaspace.epfl.ch/media/Week+12/0_ircjjkpr/29734
 [13v]:https://mediaspace.epfl.ch/media/Week+13/0_ictzttpv/29734
+[14v]:https://mediaspace.epfl.ch/media/Week+14/0_d6re8dje/29734
